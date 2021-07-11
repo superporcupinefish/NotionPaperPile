@@ -1,0 +1,1065 @@
+@ARTICLE{dummy_key,
+  title    = "Ten simple rules for writing research papers",
+  author   = "Zhang, Weixiong",
+  abstract = "The importance of writing well can never be overstated for a
+              successful professional career, and the ability to write solid
+              papers is an essential trait of a productive researcher. Writing
+              and publishing a paper has its own life cycle; properly following
+              a course of action and avoiding missteps can be vital to the
+              overall success not only of a paper but of the underlying
+              research as well. Here, we offer ten simple rules for writing and
+              publishing research papers.",
+  journal  = "PLoS computational biology",
+  volume   =  10,
+  number   =  1,
+  pages    = "e1003453",
+  month    =  jan,
+  year     =  2014,
+  language = "en"
+}
+
+@ARTICLE{Sims2002-es,
+  title    = "Relationships between leaf pigment content and spectral
+              reflectance across a wide range of species, leaf structures and
+              developmental stages",
+  author   = "Sims, Daniel A and Gamon, John A",
+  abstract = "Leaf pigment content can provide valuable insight into the
+              physiological performance of leaves. Measurement of spectral
+              reflectance provides a fast, nondestructive method for pigment
+              estimation. A large number of spectral indices have been
+              developed for estimation of leaf pigment content. However, in
+              most cases these indices have been tested for only one or at most
+              a few related species and thus it is not clear whether they can
+              be applied across species with varying leaf structural
+              characteristics. Our objective in this study was to develop
+              spectral indices for prediction of leaf pigment content that are
+              relatively insensitive to species and leaf structure variation
+              and thus could be applied in larger scale remote-sensing studies
+              without extensive calibration. We also quantified the degree of
+              spectral interference between pigments when multiple pigments
+              occur within the same leaf tissue. We found that previously
+              published spectral indices provided relatively poor correlations
+              with leaf chlorophyll content when applied across a wide range of
+              species and plant functional types. Leaf surface reflectance
+              appeared to be the most important factor in this variation. By
+              developing a new spectral index that reduces the effect of
+              differences in leaf surface reflectance, we were able to
+              significantly improve the correlations with chlorophyll content.
+              We also found that an index based on the first derivative of
+              reflectance in the red edge region was insensitive to leaf
+              structural variation. The presence of other pigments did not
+              significantly affect estimation of chlorophyll from spectral
+              reflectance. Previously published carotenoid and anthocyanin
+              indices performed poorly across the whole data set. However, we
+              found that the photochemical reflectance index (PRI, originally
+              developed for estimation of xanthophyll cycle pigment changes)
+              was related to carotenoid/chlorophyll ratios in green leaves.
+              This result has important implications for the interpretation of
+              PRI measured at both large and small scales. Our results
+              demonstrate that spectral indices can be applied across species
+              with widely varying leaf structure without the necessity for
+              extensive calibration for each species. This opens up new
+              possibilities for assessment of vegetation health in
+              heterogeneous natural environments.",
+  journal  = "Remote sensing of environment",
+  volume   =  81,
+  number   = "2-3",
+  pages    = "337--354",
+  month    =  aug,
+  year     =  2002
+}
+
+@ARTICLE{Ainsworth2007-rn,
+  title    = "Estimation of total phenolic content and other oxidation
+              substrates in plant tissues using {Folin-Ciocalteu} reagent",
+  author   = "Ainsworth, Elizabeth A and Gillespie, Kelly M",
+  abstract = "Non-structural phenolic compounds perform a variety of functions
+              in plants, including acting as antioxidants. We describe a
+              microplate-adapted colorimetric total phenolics assay that
+              utilizes Folin-Ciocalteu (F-C) reagent. The F-C assay relies on
+              the transfer of electrons in alkaline medium from phenolic
+              compounds to phosphomolybdic/phosphotungstic acid complexes,
+              which are determined spectroscopically at 765 nm. Although the
+              electron transfer reaction is not specific for phenolic
+              compounds, the extraction procedure eliminates approximately 85\%
+              of ascorbic acid and other potentially interfering compounds.
+              This assay is performed in microcentrifuge tubes and assessed in
+              a 96-well plate reader. At least 64 samples can be processed in 1
+              d.",
+  journal  = "Nature protocols",
+  volume   =  2,
+  number   =  4,
+  pages    = "875--877",
+  year     =  2007,
+  language = "en"
+}
+
+@ARTICLE{Yang2021-rz,
+  title   = "Muti-modal learning in photogrammetry and remote sensing",
+  author  = "Yang, Michael Ying and Landrieu, Loic and Tuia, Devis and Toth,
+             Charles",
+  journal = "ISPRS journal of photogrammetry and remote sensing: official
+             publication of the International Society for Photogrammetry and
+             Remote Sensing",
+  volume  =  176,
+  pages   = "54",
+  month   =  jun,
+  year    =  2021
+}
+
+@ARTICLE{Lubbe2021-be,
+  title    = "Carbohydrate storage in herbs: the forgotten functional dimension
+              of the plant economic spectrum",
+  author   = "Lubbe, F Curtis and Klime{\v s}, Adam and Dole{\v z}al, Ji{\v
+              r}{\'\i} and Jandov{\'a}, Veronika and Mudr{\'a}k, Ond{\v r}ej
+              and Jane{\v c}ek, {\v S}t{\v e}p{\'a}n and Bartu{\v s}kov{\'a},
+              Alena and Klime{\v s}ov{\'a}, Jitka",
+  abstract = "BACKGROUND AND AIMS: Although the plant economic spectrum seeks
+              to explain resource allocation strategies, carbohydrate storage
+              is often omitted. Belowground storage organs are the centre of
+              herb perennation, yet little is known about the role of their
+              turnover, anatomy and carbohydrate storage in relation to the
+              aboveground economic spectrum. METHODS: We collected aboveground
+              traits associated with the economic spectrum, storage organ
+              turnover traits, storage organ inner structure traits and storage
+              carbohydrate concentrations for ~80 temperate meadow species. KEY
+              RESULTS: The suites of belowground traits were largely
+              independent of one another, but there was significant correlation
+              of the aboveground traits with both inner structure and storage
+              carbohydrates. Anatomical traits diverged according to leaf
+              nitrogen concentration on the one hand and vessel area and dry
+              matter content on the other; carbohydrates separated along
+              gradients of leaf nitrogen concentration and plant height.
+              CONCLUSIONS: Contrary to our expectations, aboveground traits and
+              not storage organ turnover were correlated with anatomy and
+              storage carbohydrates. Belowground traits associated with the
+              aboveground economic spectrum also did not fall clearly within
+              the fast-slow economic continuum, thus indicating the presence of
+              a more complicated economic space. Our study implies that the
+              generally overlooked role of storage within the plant economic
+              spectrum represents an important dimension of plant strategy.",
+  journal  = "Annals of botany",
+  volume   =  127,
+  number   =  6,
+  pages    = "813--825",
+  month    =  may,
+  year     =  2021,
+  keywords = "Anatomy; belowground; herbaceous plant; lignin; non-structural
+              carbohydrates; persistence; plant economic spectrum; storage",
+  language = "en"
+}
+
+@ARTICLE{Murray2021-qc,
+  title    = "Data Freshness in Ecology and Conservation",
+  author   = "Murray, Nicholas J and Kennedy, Emma V and {\'A}lvarez-Romero,
+              Jorge G and Lyons, Mitchell B",
+  abstract = "Evolving capabilities in environmental data collection, sharing,
+              and processing, are enabling unprecedented use of data from a
+              wide range of sources. Yet data freshness, an important quality
+              dimension associated with the age of data, is a poorly reported
+              aspect of data quality that can lead to additional uncertainty in
+              research findings.",
+  journal  = "Trends in ecology \& evolution",
+  volume   =  36,
+  number   =  6,
+  pages    = "485--487",
+  month    =  jun,
+  year     =  2021,
+  keywords = "data reporting; environmental modeling; open-access data;
+              replication; reproducibility",
+  language = "en"
+}
+
+@ARTICLE{Osnas2018-kx,
+  title    = "Divergent drivers of leaf trait variation within species, among
+              species, and among functional groups",
+  author   = "Osnas, Jeanne L D and Katabuchi, Masatoshi and Kitajima, Kaoru
+              and Wright, S Joseph and Reich, Peter B and Van Bael, Sunshine A
+              and Kraft, Nathan J B and Samaniego, Mirna J and Pacala, Stephen
+              W and Lichstein, Jeremy W",
+  abstract = "Understanding variation in leaf functional traits-including rates
+              of photosynthesis and respiration and concentrations of nitrogen
+              and phosphorus-is a fundamental challenge in plant ecophysiology.
+              When expressed per unit leaf area, these traits typically
+              increase with leaf mass per area (LMA) within species but are
+              roughly independent of LMA across the global flora. LMA is
+              determined by mass components with different biological
+              functions, including photosynthetic mass that largely determines
+              metabolic rates and contains most nitrogen and phosphorus, and
+              structural mass that affects toughness and leaf lifespan (LL). A
+              possible explanation for the contrasting trait relationships is
+              that most LMA variation within species is associated with
+              variation in photosynthetic mass, whereas most LMA variation
+              across the global flora is associated with variation in
+              structural mass. This hypothesis leads to the predictions that
+              (i) gas exchange rates and nutrient concentrations per unit leaf
+              area should increase strongly with LMA across species assemblages
+              with low LL variance but should increase weakly with LMA across
+              species assemblages with high LL variance and that (ii)
+              controlling for LL variation should increase the strength of the
+              above LMA relationships. We present analyses of intra- and
+              interspecific trait variation from three tropical forest sites
+              and interspecific analyses within functional groups in a global
+              dataset that are consistent with the above predictions. Our
+              analysis suggests that the qualitatively different trait
+              relationships exhibited by different leaf assemblages can be
+              understood by considering the degree to which photosynthetic and
+              structural mass components contribute to LMA variation in a given
+              assemblage.",
+  journal  = "Proceedings of the National Academy of Sciences of the United
+              States of America",
+  volume   =  115,
+  number   =  21,
+  pages    = "5480--5485",
+  month    =  may,
+  year     =  2018,
+  keywords = "functional traits; leaf longevity; leaf mass per area; plant
+              functional types; tropical forests",
+  language = "en"
+}
+
+@ARTICLE{Brink2021-wy,
+  title    = "25 Years of Trends in Plant Science: We Should All Be Plant
+              Worshippers",
+  author   = "Brink, Susanne C",
+  journal  = "Trends in plant science",
+  volume   =  26,
+  number   =  6,
+  pages    = "527--529",
+  month    =  jun,
+  year     =  2021,
+  language = "en"
+}
+
+@ARTICLE{Rogers2021-kt,
+  title    = "Daily leaf area index from photosynthetically active radiation
+              for long term records of canopy structure and leaf phenology",
+  author   = "Rogers, Cheryl and Chen, Jing M and Croft, Holly and Gonsamo,
+              Alemu and Luo, Xiangzhong and Bartlett, Paul and Staebler, Ralf M",
+  abstract = "Leaf area index (LAI) is a critical biophysical indicator that
+              describes foliage abundance in ecosystems. An accurate and
+              continuous estimation of LAI is therefore desirable to quantify
+              ecosystem status and function (e.g. carbon and water exchange
+              between the land surface and the atmosphere). However, deriving
+              accurate LAI measurements at regular temporal intervals remains
+              challenging, requiring either destructive sampling or manual
+              collection of canopy gap fraction measurements at discrete time
+              intervals. In this study, we present four methods to obtain
+              continuous LAI data, simply derived from above and below canopy
+              measurements of photosynthetically active radiation (PAR) at the
+              Borden Forest Research Station from 1999 to 2018. We compared LAI
+              derived using the four PAR-based methods to independent
+              measurements of LAI from optical methods and the MODIS satellite
+              LAI product. LAI derived from all four PAR-based methods captured
+              the seasonal changes in observed and remotely sensed LAI and
+              showed a close linear correspondence with one another (R2 of 0.55
+              to 0.76 compared to MODIS LAI, and R2 of 0.78 to 0.84 compared to
+              LAI-2000 measurements). A PAR-based method using Miller's
+              Integral theorem showed the strongest linear relationship with
+              LAI-2000 measurements (R2=0.84, p<0.001, SE=0.40). In many years
+              MODIS LAI indicated an earlier start of season and earlier end of
+              season than the daily PAR-based LAI datasets showing systematic
+              biases in the MODIS assessment of growing season. The four
+              PAR-based LAI methods outlined in this study provide an LAI
+              dataset of unprecedented temporal resolution. These methods will
+              allow precise determination of phenological events, improve leaf
+              to canopy scaling in process-based models, and provide valuable
+              insight into dynamic vegetation responses to global climate
+              change.",
+  journal  = "Agricultural and Forest Meteorology",
+  volume   = "304-305",
+  pages    = "108407",
+  month    =  jul,
+  year     =  2021,
+  keywords = "Leaf area index; Canopy structure; Photosynthetically active
+              radiation; Phenology; Remote sensing; Carbon cycle"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Moon2021-wj,
+  title    = "Using time series of {MODIS} land surface phenology to model
+              temperature and photoperiod controls on spring greenup in North
+              American deciduous forests",
+  author   = "Moon, Minkyu and Seyednasrollah, Bijan and Richardson, Andrew D
+              and Friedl, Mark A",
+  abstract = "The timing of leaf emergence in temperate and boreal forests is
+              changing, which has profound implications for a wide array of
+              ecosystem processes and services. Spring phenology models, which
+              have been widely used to predict the timing of leaf emergence,
+              generally assume that a combination of photoperiod and thermal
+              forcing control when leaves emerge. However, the exact nature and
+              magnitude of how photoperiod and temperature individually and
+              jointly control leaf emergence is the subject of ongoing debate.
+              Here we use a continuous development model in combination with
+              time series of land surface phenology measurements from MODIS to
+              quantify the relative importance of photoperiod and thermal
+              forcing in controlling the timing of canopy greenup in eastern
+              temperate and boreal forests of North America. The model
+              accurately predicts biogeographic and interannual variation in
+              the timing of greenup across the study region (median RMSE = 4.6
+              days, median bias = 0.30 days). Results reveal strong
+              biogeographic variation in the period prior to greenup when
+              temperature and photoperiod influence greenup that covaries with
+              the importance of photoperiod versus thermal controls.
+              Photoperiod control on leaf emergence is dominant in warmer
+              climates, but exerts only modest influence on the timing of leaf
+              emergence in colder climates. Results from models estimated using
+              ground-based observations of cloned lilac are consistent with
+              those from remote sensing, which supports the realism of remote
+              sensing-based models. Overall, results from this study suggest
+              that apparent changes in the sensitivity of trees to temperature
+              are modest and reflect a trade-off between decreased sensitivity
+              to temperature and increased photoperiod control, and identify a
+              transition in the relative importance of temperature versus
+              photoperiod near the 10 °C isotherm in mean annual temperature.
+              This suggests that the timing of leaf emergence will continue to
+              move earlier as the climate warms, and that the magnitude of
+              change will be more pronounced in colder regions with mean annual
+              temperatures below 10 °C.",
+  journal  = "Remote sensing of environment",
+  volume   =  260,
+  pages    = "112466",
+  month    =  jul,
+  year     =  2021,
+  keywords = "Spring phenology; Climate change; Deciduous forests; Photoperiod;
+              Temperature sensitivity; Bayesian; Hierarchical modeling; MODIS;
+              Land surface phenology"
+}
+
+@ARTICLE{Bruelheide2018-rx,
+  title    = "Global trait-environment relationships of plant communities",
+  author   = "Bruelheide, Helge and Dengler, J{\"u}rgen and Purschke, Oliver
+              and Lenoir, Jonathan and Jim{\'e}nez-Alfaro, Borja and Hennekens,
+              Stephan M and Botta-Duk{\'a}t, Zolt{\'a}n and Chytr{\'y}, Milan
+              and Field, Richard and Jansen, Florian and Kattge, Jens and
+              Pillar, Val{\'e}rio D and Schrodt, Franziska and Mahecha, Miguel
+              D and Peet, Robert K and Sandel, Brody and van Bodegom, Peter and
+              Altman, Jan and Alvarez-D{\'a}vila, Esteban and Arfin Khan,
+              Mohammed A S and Attorre, Fabio and Aubin, Isabelle and Baraloto,
+              Christopher and Barroso, Jorcely G and Bauters, Marijn and
+              Bergmeier, Erwin and Biurrun, Idoia and Bjorkman, Anne D and
+              Blonder, Benjamin and {\v C}arni, Andra{\v z} and Cayuela, Luis
+              and {\v C}ern{\'y}, Tom{\'a}{\v s} and Cornelissen, J Hans C and
+              Craven, Dylan and Dainese, Matteo and Derroire, G{\'e}raldine and
+              De Sanctis, Michele and D{\'\i}az, Sandra and Dole{\v z}al, Ji{\v
+              r}{\'\i} and Farfan-Rios, William and Feldpausch, Ted R and
+              Fenton, Nicole J and Garnier, Eric and Guerin, Greg R and
+              Guti{\'e}rrez, Alvaro G and Haider, Sylvia and Hattab, Tarek and
+              Henry, Greg and H{\'e}rault, Bruno and Higuchi, Pedro and
+              H{\"o}lzel, Norbert and Homeier, J{\"u}rgen and Jentsch, Anke and
+              J{\"u}rgens, Norbert and K{\k a}cki, Zygmunt and Karger, Dirk N
+              and Kessler, Michael and Kleyer, Michael and Knollov{\'a}, Ilona
+              and Korolyuk, Andrey Y and K{\"u}hn, Ingolf and Laughlin, Daniel
+              C and Lens, Frederic and Loos, Jacqueline and Louault,
+              Fr{\'e}d{\'e}rique and Lyubenova, Mariyana I and Malhi, Yadvinder
+              and Marcen{\`o}, Corrado and Mencuccini, Maurizio and M{\"u}ller,
+              Jonas V and Munzinger, J{\'e}r{\^o}me and Myers-Smith, Isla H and
+              Neill, David A and Niinemets, {\"U}lo and Orwin, Kate H and
+              Ozinga, Wim A and Penuelas, Josep and P{\'e}rez-Haase, Aaron and
+              Pet{\v r}{\'\i}k, Petr and Phillips, Oliver L and P{\"a}rtel,
+              Meelis and Reich, Peter B and R{\"o}mermann, Christine and
+              Rodrigues, Arthur V and Sabatini, Francesco Maria and Sardans,
+              Jordi and Schmidt, Marco and Seidler, Gunnar and Silva Espejo,
+              Javier Eduardo and Silveira, Marcos and Smyth, Anita and
+              Sporbert, Maria and Svenning, Jens-Christian and Tang, Zhiyao and
+              Thomas, Raquel and Tsiripidis, Ioannis and Vassilev, Kiril and
+              Violle, Cyrille and Virtanen, Risto and Weiher, Evan and Welk,
+              Erik and Wesche, Karsten and Winter, Marten and Wirth, Christian
+              and Jandt, Ute",
+  abstract = "Plant functional traits directly affect ecosystem functions. At
+              the species level, trait combinations depend on trade-offs
+              representing different ecological strategies, but at the
+              community level trait combinations are expected to be decoupled
+              from these trade-offs because different strategies can facilitate
+              co-existence within communities. A key question is to what extent
+              community-level trait composition is globally filtered and how
+              well it is related to global versus local environmental drivers.
+              Here, we perform a global, plot-level analysis of
+              trait-environment relationships, using a database with more than
+              1.1 million vegetation plots and 26,632 plant species with trait
+              information. Although we found a strong filtering of 17
+              functional traits, similar climate and soil conditions support
+              communities differing greatly in mean trait values. The two main
+              community trait axes that capture half of the global trait
+              variation (plant stature and resource acquisitiveness) reflect
+              the trade-offs at the species level but are weakly associated
+              with climate and soil conditions at the global scale. Similarly,
+              within-plot trait variation does not vary systematically with
+              macro-environment. Our results indicate that, at fine spatial
+              grain, macro-environmental drivers are much less important for
+              functional trait composition than has been assumed from floristic
+              analyses restricted to co-occurrence in large grid cells.
+              Instead, trait combinations seem to be predominantly filtered by
+              local-scale factors such as disturbance, fine-scale soil
+              conditions, niche partitioning and biotic interactions.",
+  journal  = "Nature ecology \& evolution",
+  volume   =  2,
+  number   =  12,
+  pages    = "1906--1917",
+  month    =  dec,
+  year     =  2018,
+  language = "en"
+}
+
+@ARTICLE{John2017-qp,
+  title    = "The anatomical and compositional basis of leaf mass per area",
+  author   = "John, Grace P and Scoffoni, Christine and Buckley, Thomas N and
+              Villar, Rafael and Poorter, Hendrik and Sack, Lawren",
+  abstract = "Leaf dry mass per unit leaf area (LMA) is a central trait in
+              ecology, but its anatomical and compositional basis has been
+              unclear. An explicit mathematical and physical framework for
+              quantifying the cell and tissue determinants of LMA will enable
+              tests of their influence on species, communities and ecosystems.
+              We present an approach to explaining LMA from the numbers,
+              dimensions and mass densities of leaf cells and tissues, which
+              provided unprecedented explanatory power for 11 broadleaved woody
+              angiosperm species diverse in LMA (33-262 g m-2 ; R2 = 0.94; P <
+              0.001). Across these diverse species, and in a larger comparison
+              of evergreen vs. deciduous angiosperms, high LMA resulted
+              principally from larger cell sizes, greater major vein
+              allocation, greater numbers of mesophyll cell layers and higher
+              cell mass densities. This explicit approach enables relating leaf
+              anatomy and composition to a wide range of processes in
+              physiological, evolutionary, community and macroecology.",
+  journal  = "Ecology letters",
+  volume   =  20,
+  number   =  4,
+  pages    = "412--425",
+  month    =  apr,
+  year     =  2017,
+  keywords = " SLA ; Deciduous; evergreen; functional traits; leaf anatomy;
+              leaf density; leaf economics; leaf thickness; mesophyll; specific
+              leaf area",
+  language = "en"
+}
+
+@ARTICLE{Shiklomanov2021-mu,
+  title     = "Cutting out the middleman: calibrating and validating a dynamic
+               vegetation model ({ED2-PROSPECT5}) using remotely sensed surface
+               reflectance",
+  author    = "Shiklomanov, Alexey N and Dietze, Michael C and Fer, Istem and
+               Viskari, Toni and Serbin, Shawn P",
+  journal   = "Geoscientific Model Development",
+  publisher = "Copernicus GmbH",
+  volume    =  14,
+  number    =  5,
+  pages     = "2603--2633",
+  month     =  may,
+  year      =  2021,
+  language  = "en"
+}
+
+@ARTICLE{Rossi2020-xm,
+  title    = "From local to regional: Functional diversity in differently
+              managed alpine grasslands",
+  author   = "Rossi, Christian and Kneub{\"u}hler, Mathias and Sch{\"u}tz,
+              Martin and Schaepman, Michael E and Haller, Rudolf M and Risch,
+              Anita C",
+  abstract = "Increasing evidence suggests that ecosystem functions are
+              strongly linked to morphological plant traits, like specific leaf
+              area (SLA) and its variability, which serve as a proxy of
+              functional diversity (FD). Functional diversity is rarely studied
+              at regional scales, and its scale dependence is poorly
+              understood. Capturing trait variations at distinct spatial scales
+              and in differently managed grasslands remains challenging, mainly
+              because a limited number of trait measurements are available and
+              field campaigns are time-consuming. Here, we derived $\alpha$-
+              and $\beta$-FD indices based on SLA measured in the field and
+              estimated from optical satellite data by using molecular
+              absorption profiles of leaves in canopies. We inverted the 1-D
+              columnar radiative transfer model PROSAIL using Sentinel-2
+              reflectance data at canopy level. From the inversion we were able
+              to distinguish different alpine management types based on
+              retrieved SLA. Model uncertainties were mainly related to the
+              different local plant communities, here represented by functional
+              diversity indices and community-weighted means of traits. Thus,
+              successful PROSAIL application was affected by management type.
+              Management categories displaying lower $\alpha$-FD, like mowed
+              and fertilized, delivered the most reliable results. Further, we
+              compared FD (i.e., richness, evenness, divergence) from local to
+              regional scales. Locally, management determines the magnitude of
+              FD, whereas on a regional scale, parcel size and the uniformity
+              of agricultural practices control trait diversity. Our results
+              highlight the importance of quantifying $\beta$-FD from space as
+              it delivers additional information on the impact of management
+              types, differing from locally measured $\alpha$-FD values.",
+  journal  = "Remote sensing of environment",
+  volume   =  236,
+  pages    = "111415",
+  month    =  jan,
+  year     =  2020,
+  keywords = "Sentinel-2; PROSAIL; Plant traits; Specific leaf area; Leaf mass
+              per area; Functional diversity"
+}
+
+@ARTICLE{Wang2019-eq,
+  title    = "Remote sensing of terrestrial plant biodiversity",
+  author   = "Wang, Ran and Gamon, John A",
+  abstract = "Biodiversity is essential to healthy ecosystem function,
+              influencing productivity and resilience to disturbance.
+              Biodiversity loss endangers essential ecosystem services and
+              risks unacceptable environmental consequences. Global
+              biodiversity observations are needed to provide a better
+              understanding of the distribution of biodiversity, to better
+              identify high priority areas for conservation and to help
+              maintain essential ecosystem goods and services. Traditional in
+              situ biodiversity monitoring is limited in time and space and is
+              usually a costly and time-consuming enterprise. Remote sensing
+              can provide data over a large area in a consistent, objective
+              manner and has been used to detect plant biodiversity in a range
+              of ecosystems, typically based on relating spectral properties to
+              the distribution of habitat, species or functional groups. Recent
+              years have witnessed the emergence of methods using imaging
+              spectroscopy to assess biodiversity via plant traits or spectral
+              information content. However, questions regarding the complex
+              drivers of plant optical properties and the scale dependence of
+              spectral diversity -- biodiversity relationship confound
+              diversity monitoring using remote sensing and must first be
+              better understood before these methods can be operationally
+              applied. To address some of these topics, we (1) review the
+              history of remote sensing approaches in biodiversity estimation,
+              summarizing the pros and cons of different methods, (2)
+              illustrate successes and major gaps of remote sensing of
+              biodiversity, and (3) identify promising future directions. We
+              focus on emerging methods using spectral diversity (optical
+              diversity) as a proxy for terrestrial plant diversity that offer
+              to revolutionize the study of diversity in its different
+              dimensions (phylogenetic, taxonomic, and functional diversity)
+              from remote sensing. We also discuss remaining knowledge gaps and
+              ways spectral diversity might be effectively integrated into a
+              global biodiversity monitoring system, bridging a gap between
+              ecology and remote sensing.",
+  journal  = "Remote sensing of environment",
+  volume   =  231,
+  pages    = "111218",
+  month    =  sep,
+  year     =  2019,
+  keywords = "Biodiversity; Remote sensing; Optical diversity; Spectral
+              diversity; Spectral heterogeneity; Imaging spectroscopy; Scale;
+              Global biodiversity monitoring system"
+}
+
+@ARTICLE{Schiefer2021-st,
+  title    = "The retrieval of plant functional traits from canopy spectra
+              through {RTM-inversions} and statistical models are both
+              critically affected by plant phenology",
+  author   = "Schiefer, Felix and Schmidtlein, Sebastian and Kattenborn, Teja",
+  abstract = "Plant functional traits play a key role in the assessment of
+              ecosystem processes and properties. Optical remote sensing is
+              ascribed a high potential in capturing those traits and their
+              spatiotemporal patterns. In vegetation remote sensing,
+              reflectance-based retrieval methods are either statistical
+              (relying on empirical observations) or physically-based (based on
+              inversions of a radiative transfer model, RTM). Both trait
+              retrieval approaches remain poorly investigated regarding
+              phenology. However, within the phenology of a plant, its leaf
+              constituents, canopy structure, and the presence of
+              phenology-related organs (i.e., flowers or inflorescence) vary
+              considerably -- and so does its reflectance. We, therefore,
+              addressed the question of how plant phenology affects the
+              predictive performance of both statistical and RTM-based methods
+              and how this effect differs between traits. For a complete
+              growing season, we weekly measured traits of 45 herbaceous plant
+              species together with hyperspectral canopy reflectance (ASD
+              FieldSpec III). Plants were grown in an experimental setup. The
+              investigated traits comprised Leaf Area Index (LAI) and the leaf
+              traits chlorophyll, anthocyanins, carotenoids, equivalent water
+              thickness, and leaf mass per area. We compared the predictive
+              performances of PLSR models and three variants of PROSAIL
+              inversions based on (1) all observations and based on (2) a
+              phenological subset where flowering plants were excluded and only
+              those observations most suitable for modeling were kept. Our
+              results show that both statistical and RTM-based trait retrievals
+              were largely affected by phenology. For carotenoids for example,
+              R2 decreased from 0.58 at non-flowering canopies to 0.25 at 100\%
+              flowering canopies. Temporal trends were diverse. LAI and
+              equivalent water thickness were best estimated earlier in the
+              growing season; chlorophyll and carotenoids towards senescence.
+              PLSR models showed generally higher bias than the PROSAIL-based
+              retrieval approaches. Lookup-table inversion of PROSAIL in
+              combination with a continuous wavelet transformation of
+              reflectance showed highest accuracies. We found RTM-based
+              retrieval not to be as accurate and transferable as previously
+              indicated. Our results suggest that phenology is essential for
+              accurate retrieval of plant functional traits and varies
+              depending on the studied species and functional traits,
+              respectively.",
+  journal  = "Ecological indicators",
+  volume   =  121,
+  pages    = "107062",
+  month    =  feb,
+  year     =  2021,
+  keywords = "Vegetation remote sensing; Leaf traits; PROSAIL; Partial least
+              squares regression; Flowering; Radiative transfer model"
+}
+
+@ARTICLE{Croft2020-hy,
+  title    = "The global distribution of leaf chlorophyll content",
+  author   = "Croft, H and Chen, J M and Wang, R and Mo, G and Luo, S and Luo,
+              X and He, L and Gonsamo, A and Arabian, J and Zhang, Y and
+              Simic-Milas, A and Noland, T L and He, Y and Homolov{\'a}, L and
+              Malenovsk{\'y}, Z and Yi, Q and Beringer, J and Amiri, R and
+              Hutley, L and Arellano, P and Stahl, C and Bonal, D",
+  abstract = "Leaf chlorophyll is central to the exchange of carbon, water and
+              energy between the biosphere and the atmosphere, and to the
+              functioning of terrestrial ecosystems. This paper presents the
+              first spatially-continuous view of terrestrial leaf chlorophyll
+              content (ChlLeaf) at the global scale. Weekly maps of ChlLeaf
+              were produced from ENVISAT MERIS full resolution (300 m)
+              satellite data using a two-stage physically-based radiative
+              transfer modelling approach. Firstly, leaf-level reflectance was
+              derived from top-of-canopy satellite reflectance observations
+              using 4-Scale and SAIL canopy radiative transfer models for woody
+              and non-woody vegetation, respectively. Secondly, the modelled
+              leaf-level reflectance was input into the PROSPECT leaf-level
+              radiative transfer model to derive ChlLeaf. The ChlLeaf retrieval
+              algorithm was validated using measured ChlLeaf data from 248
+              sample measurements at 28 field locations, and covering six plant
+              functional types (PFTs). Modelled results show strong
+              relationships with field measurements, particularly for deciduous
+              broadleaf forests (R2 = 0.67; RMSE = 9.25 $\mu$g cm-2; p <
+              0.001), croplands (R2 = 0.41; RMSE = 13.18 $\mu$g cm-2; p <
+              0.001) and evergreen needleleaf forests (R2 = 0.47; RMSE = 10.63
+              $\mu$g cm-2; p < 0.001). When the modelled results from all PFTs
+              were considered together, the overall relationship with measured
+              ChlLeaf remained good (R2 = 0.47, RMSE = 10.79 $\mu$g cm-2; p <
+              0.001). This result is an improvement on the relationship between
+              measured ChlLeaf and a commonly used chlorophyll-sensitive
+              spectral vegetation index; the MERIS Terrestrial Chlorophyll
+              Index (MTCI; R2 = 0.27, p < 0.001). The global maps show large
+              temporal and spatial variability in ChlLeaf, with evergreen
+              broadleaf forests presenting the highest leaf chlorophyll values,
+              with global annual median values of 54.4 $\mu$g cm-2. Distinct
+              seasonal ChlLeaf phenologies are also visible, particularly in
+              deciduous plant forms, associated with budburst and crop growth,
+              and leaf senescence. It is anticipated that this global ChlLeaf
+              product will make an important step towards the explicit
+              consideration of leaf-level biochemistry in terrestrial water,
+              energy and carbon cycle modelling.",
+  journal  = "Remote sensing of environment",
+  volume   =  236,
+  pages    = "111479",
+  month    =  jan,
+  year     =  2020,
+  keywords = "Radiative transfer; 4-Scale; SAIL; PROSPECT; Leaf biochemistry;
+              MERIS; Satellite; Remote sensing; Leaf physiology; Carbon cycle;
+              Ecosystem modelling; Phenology"
+}
+
+@ARTICLE{Moreno-Martinez2018-dq,
+  title    = "A methodology to derive global maps of leaf traits using remote
+              sensing and climate data",
+  author   = "Moreno-Mart{\'\i}nez, {\'A}lvaro and Camps-Valls, Gustau and
+              Kattge, Jens and Robinson, Nathaniel and Reichstein, Markus and
+              van Bodegom, Peter and Kramer, Koen and Cornelissen, J Hans C and
+              Reich, Peter and Bahn, Michael and Niinemets, {\"U}lo and
+              Pe{\~n}uelas, Josep and Craine, Joseph M and Cerabolini, Bruno E
+              L and Minden, Vanessa and Laughlin, Daniel C and Sack, Lawren and
+              Allred, Brady and Baraloto, Christopher and Byun, Chaeho and
+              Soudzilovskaia, Nadejda A and Running, Steve W",
+  abstract = "This paper introduces a modular processing chain to derive global
+              high-resolution maps of leaf traits. In particular, we present
+              global maps at 500 m resolution of specific leaf area, leaf dry
+              matter content, leaf nitrogen and phosphorus content per dry
+              mass, and leaf nitrogen/phosphorus ratio. The processing chain
+              exploits machine learning techniques along with optical remote
+              sensing data (MODIS/Landsat) and climate data for gap filling and
+              up-scaling of in-situ measured leaf traits. The chain first uses
+              random forests regression with surrogates to fill gaps in the
+              database (> 45\% of missing entries) and maximizes the global
+              representativeness of the trait dataset. Plant species are then
+              aggregated to Plant Functional Types (PFTs). Next, the spatial
+              abundance of PFTs at MODIS resolution (500 m) is calculated using
+              Landsat data (30 m). Based on these PFT abundances,
+              representative trait values are calculated for MODIS pixels with
+              nearby trait data. Finally, different regression algorithms are
+              applied to globally predict trait estimates from these MODIS
+              pixels using remote sensing and climate data. The methods were
+              compared in terms of precision, robustness and efficiency. The
+              best model (random forests regression) shows good precision
+              (normalized RMSE$\leq$ 20\%) and goodness of fit (averaged
+              Pearson's correlation R = 0.78) in any considered trait. Along
+              with the estimated global maps of leaf traits, we provide
+              associated uncertainty estimates derived from the regression
+              models. The process chain is modular, and can easily accommodate
+              new traits, data streams (traits databases and remote sensing
+              data), and methods. The machine learning techniques applied allow
+              attribution of information gain to data input and thus provide
+              the opportunity to understand trait-environment relationships at
+              the plant and ecosystem scales. The new data products -- the
+              gap-filled trait matrix, a global map of PFT abundance per MODIS
+              gridcells and the high-resolution global leaf trait maps -- are
+              complementary to existing large-scale observations of the land
+              surface and we therefore anticipate substantial contributions to
+              advances in quantifying, understanding and prediction of the
+              Earth system.",
+  journal  = "Remote sensing of environment",
+  volume   =  218,
+  pages    = "69--88",
+  month    =  dec,
+  year     =  2018,
+  keywords = "Plant traits; Machine learning; Random forests; Remote sensing;
+              Plant ecology; Climate; MODIS; Landsat"
+}
+
+@ARTICLE{Wang2018-rk,
+  title    = "Mapping forest canopy nitrogen content by inversion of coupled
+              leaf-canopy radiative transfer models from airborne hyperspectral
+              imagery",
+  author   = "Wang, Zhihui and Skidmore, Andrew K and Darvishzadeh, Roshanak
+              and Wang, Tiejun",
+  abstract = "Foliar nitrogen is a critical factor in leaf physiological
+              processes, plant growth, and ecosystem functioning, which has
+              been proposed as one of the essential biodiversity variables.
+              Nitrogen has been quantified by a number of empirical approaches
+              using hyperspectral data, but the retrieval of nitrogen through a
+              physically based approach remains a challenge. A recent study by
+              Wang et al. (2015a) has revealed that leaf protein can be
+              successfully estimated from fresh leaf spectra using a revised
+              leaf radiative transfer model PROPECT-5 which incorporated the
+              effects of leaf protein and cellulose + lignin on leaf
+              reflectance and transmittance. This provides a potential approach
+              of estimating nitrogen using radiative transfer models given the
+              correlation between protein and nitrogen. However, such a revised
+              leaf model has not been tested for the estimation of leaf
+              nitrogen at the canopy level. In this study, a canopy reflectance
+              model INFORM, coupled with the revised PROSPECT-5 model, was used
+              to retrieve leaf and canopy nitrogen content in a mixed temperate
+              forest using the wavelengths of 800--2500 nm from airborne
+              hyperspectral imagery. Ecological criteria were applied to the
+              parameterization of the model to reduce unrealistic combinations
+              of input parameters. Global sensitivity analysis showed that leaf
+              protein played a small but distinct role in driving the variation
+              of canopy reflectance in the INFORM model. More accurate
+              estimation was obtained for canopy nitrogen content (R2 = 0.64,
+              RMSE = 1.90, NRMSE = 0.18) than leaf nitrogen content (R2 = 0.46,
+              RMSE = 3.79e-05, NRMSE = 0.19). Moreover, inversion techniques,
+              particularly regularized look-up tables, further improved the
+              estimation accuracies compared to the original tables. Our
+              results indicate that leaf and canopy nitrogen content can be
+              retrieved successfully at the canopy level by inversion of
+              INFORM. Both the direct and indirect effects of nitrogen on
+              canopy reflectance are important for nitrogen estimation. The
+              maps of leaf and canopy nitrogen content are the first to be
+              generated using inversion of coupled leaf-canopy models, and the
+              spatial variation of foliar nitrogen appears to be reasonable and
+              consistent with ecological knowledge.",
+  journal  = "Agricultural and Forest Meteorology",
+  volume   = "253-254",
+  pages    = "247--260",
+  month    =  may,
+  year     =  2018,
+  keywords = "Leaf and canopy nitrogen; Forest; Radiative transfer model; Model
+              inversion; PROSPECT; INFORM; Hyperspectral remote sensing"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Vleminckx2021-bx,
+  title     = "Resolving whole‐plant economics from leaf, stem and root traits
+               of 1467 Amazonian tree species",
+  author    = "Vleminckx, Jason and Fortunel, Claire and Valverde‐Barrantes,
+               Oscar and Timothy Paine, C E and Engel, Julien and Petronelli,
+               Pascal and Dourdain, Aur{\'e}lie K and Guevara, Juan and
+               B{\'e}roujon, Sol{\`e}ne and Baraloto, Christopher",
+  abstract  = "It remains unclear how evolutionary and ecological processes
+               have shaped the wide variety of plant life strategies,
+               especially in highly diverse ecosystems like tropical forests.
+               Some evidence suggests that species have diversified across a
+               gradient of ecological strategies, with different plant tissues
+               converging to optimize resource use across environmental
+               gradients. Alternative hypotheses propose that species have
+               diversified following independent selection on different
+               tissues, resulting in a decoupling of trait syndromes across
+               organs. To shed light on the subject, we assembled an
+               unprecedented dataset combining 19 leaf, stem and root traits
+               for 1467 tropical tree species inventoried across 71 0.1-ha
+               plots spanning broad environmental gradients in French Guiana.
+               Nearly 50\% of the overall functional heterogeneity was
+               expressed along four orthogonal dimensions, after accounting for
+               phylogenetic dependences among species. The first dimension
+               related to fine root functioning, while the second and third
+               dimensions depicted two decoupled leaf economics spectra, and
+               the fourth dimension encompassed a wood economics spectrum.
+               Traits involved in orthogonal functional strategies, five leaf
+               traits in particular but also trunk bark thickness, were
+               consistently associated with a same gradient of soil texture and
+               nutrient availability. Root traits did not show any significant
+               association with edaphic variation, possibly because of the
+               prevailing influence of other factors (mycorrhizal symbiosis,
+               phylogenetic constraints). Our study emphasises the existence of
+               multiple functional dimensions that allow tropical tree species
+               to optimize their performance in a given environment, bringing
+               new insights into the debate around the presence of a whole
+               plant economic spectrum in tropical forest tree communities. It
+               also emphasizes the key role that soil heterogeneity plays in
+               shaping tree species assembly. The extent to which different
+               organs are decoupled and respond to environmental gradients may
+               also help to improve our predictions of species distribution
+               changes in responses to habitat modification and environmental
+               changes.",
+  journal   = "Oikos",
+  publisher = "Wiley",
+  number    = "oik.08284",
+  month     =  may,
+  year      =  2021,
+  copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
+  language  = "en"
+}
+
+@ARTICLE{Liu2021-cy,
+  title    = "Separating meteorological condition and soil moisture controls on
+              the variation in stand evapotranspiration of a larch plantation
+              during three hydrological years",
+  author   = "Liu, Zebin and Wang, Yanhui and Wang, Yarui and Guo, Jianbin and
+              Yu, Pengtao and Wang, Lei and Yu, Songping and Liu, Fan",
+  abstract = "Evapotranspiration (ET) is an essential component of the forest
+              stand water budget, and the main factors controlling ET
+              variations are meteorological conditions and soil moisture. A
+              deep understanding of their impacts on ET is crucial for forest
+              water management and sustainable development in changing
+              environments. However, the independent effects of meteorological
+              conditions and soil moisture on ET are not clear because their
+              impacts occur concurrently under natural environmental
+              conditions. In this study, a relatively simple but
+              mechanism-based forest stand ET model that couples the effects of
+              the reference ET (ETo) and relative extractable water (REW) in
+              the 0--60 cm soil layer was developed to quantify the independent
+              impacts of ETo and REW on ET. The model was established based on
+              observed stand transpiration, forest floor ET, meteorological
+              conditions, and soil water content obtained on non-rainfall days
+              of the 2015, 2016, and 2019 growing seasons from a larch (Larix
+              principis-rupprechtii) plantation in Northwest China. The
+              following key results were obtained. (1) At this sub-humid site,
+              the weather-dependent ET increased linearly with rising ETo;
+              daily ET initially increased rapidly with rising REW, and then
+              gradually reached a threshold; thereafter, it tended to be
+              stable. The response could be described by an exponential
+              saturation function. (2) The daily stand ET model that coupled
+              these response functions to individual factors was determined as
+              ET = 0. 785 $\times$ [ETo $\times$ (1 -- EXP(--13.567REW))]. (3)
+              The contributions of ETo and REW were further determined using
+              the new ET model, and the results show that ETo was the main
+              driving factor affecting the ET variations in three different
+              hydrological years compared with REW and the interaction of ETo
+              and REW. Compared with those in the normal year 2015, REW and ETo
+              limited the ET variation in the dry year 2016 by 13.1\% and
+              7.3\%, respectively, and ETo limited the ET variation in the wet
+              year 2019 by 8.8\%. Our study provides a simple and feasible
+              method for separating the meteorological conditions (i.e., ETo)
+              and soil moisture controls on ET variations, and can improve the
+              understanding of the impacts of varying environments on ET.",
+  journal  = "Global Ecology and Conservation",
+  volume   =  27,
+  pages    = "e01548",
+  month    =  jun,
+  year     =  2021,
+  keywords = "Evapotranspiration model; Reference evapotranspiration; Soil
+              moisture; Factor contribution; Larch plantation"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Siddiq2021-ks,
+  title    = "Models to estimate the above and below ground carbon stocks from
+              a subtropical scrub forest of Pakistan",
+  author   = "Siddiq, Zafar and Hayyat, Muhammad Umar and Khan, Amin U and
+              Mahmood, Rashid and Shahzad, Laila and Ghaffar, Rabia and Cao,
+              Kun-Fang",
+  abstract = "Despite an increased number of studies on carbon stock estimates
+              from tropical and temperate forests, little information is
+              available for subtropical forests, although they constitute a
+              significant proportion of global forest cover. In this present
+              study, we aimed to assess the above- and below ground biomass
+              allocation strategies and carbon stocks of Acacia modesta and
+              Olea ferruginea, which co-dominate a subtropical dry forest in
+              Pakistan covering approximately 1.6 Mha. This scrub forest has
+              been subjected to mining, overgrazing, and other anthropogenic
+              activities resulting in the loss of trees and habitat
+              degradation. For the assessment of biomass and carbon stock, 11
+              trees of each species representing the diameter range of 10--52
+              cm at 1.3 m height were harvested. The harvested A. modesta and
+              O. ferruginea trees showed 80\% and 82\% of biomass in the
+              above-ground parts and 20\% and 18\% to below ground parts
+              respectively. We developed power models from the destructive
+              harvest data for both the above- and below-ground biomass
+              components to assess the tree-level carbon. Furthermore, we also
+              estimated the carbon content in the leaves, roots, and shoots of
+              both species by using a carbon analyzer, which ranged from
+              43.42\% to 46.50\%. Using the developed models, we found that the
+              total carbon stock was 49.82 t ha−1 in the studied forest with a
+              basal area of 27 m2 ha−1, consisting of 568 trees ha−1. This
+              study provides useful information about the tissue carbon
+              content, on-site models for estimating the above- and below
+              ground biomass and carbon stock in two dominant species from a
+              subtropical dry forest, which can be applied to estimate the
+              carbon stock of forests in arid climate.",
+  journal  = "Global Ecology and Conservation",
+  volume   =  27,
+  pages    = "e01539",
+  month    =  jun,
+  year     =  2021,
+  keywords = "Biomass allocation; Carbon content; Dry subtropical forest"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Tong2021-ut,
+  title    = "Leaf litter carbon, nitrogen and phosphorus stoichiometry of
+              Chinese fir (Cunninghamia lanceolata) across China",
+  author   = "Tong, Ran and Zhou, Benzhi and Jiang, Lina and Ge, Xiaogai and
+              Cao, Yonghui and Shi, Jiuxi",
+  abstract = "The stoichiometric characteristics of plant tissue (living or
+              dead) can influence carbon (C) and nutrient dynamics in forest
+              ecosystems. Numerous investigations have focused on green leaves
+              in site or regional areas, but few on leaf litter, especially for
+              tree species with a wide distribution. Here, we collected 57 leaf
+              litter samples of Chinese fir from 19 sites across subtropical
+              China and determined the C, N and P concentrations and
+              stoichiometric ratios, and related these leaf litter variables
+              with geographical and climatic variables, as well as with soil
+              chemistry, which were assessed through soil sampling at the 19
+              sites. The results showed that the mean leaf litter C, N and P
+              concentrations (namely nutrient resorption proficiency, NuRP)
+              were 458.3 $\pm$ 4.0 mg g−1, 8.9 $\pm$ 0.3 mg g−1, and 0.46 $\pm$
+              0.02 mg g−1, respectively. The mean C:N, C:P, and N:P ratios were
+              52.9 $\pm$ 1.9, 1049.8 $\pm$ 43.8, and 19.8 $\pm$ 0.6,
+              respectively. Concentrations of leaf litter N and P were strongly
+              positively correlated with each other (p 0.05). The leaf litter
+              stoichiometry showed linear or nonlinear relationships with the
+              geographical, climatic and soil chemical variables. Hierarchical
+              partitioning (HP) analysis showed that the geographical and
+              climatic variables explained most of the variation in leaf litter
+              C and N concentrations and in the N:P ratio. Variation in the
+              leaf litter P concentration was mainly regulated by soil chemical
+              variables. Overall, our findings indicated that the resorption
+              proficiency of the leaf litter was at intermediate level for both
+              N and P. The leaf litter stoichiometry of Chinese fir was driven
+              by the geographical location, mean temperature and precipitation
+              conditions and soil nutrient status at a regional scale. Our
+              results provided new insights into the ability of Chinese fir to
+              adapt to future climate conditions, and also increased our
+              understandings of drivers of the elemental biogeochemical cycle.",
+  journal  = "Global Ecology and Conservation",
+  volume   =  27,
+  pages    = "e01542",
+  month    =  jun,
+  year     =  2021,
+  keywords = "Leaf litter; C: N: P ratios; Environmental variables; Chinese fir"
+}
+
+@ARTICLE{Gavrutenko2021-yi,
+  title    = "Temporal matching of occurrence localities and forest cover data
+              helps improve range estimates and predict climate change
+              vulnerabilities",
+  author   = "Gavrutenko, Maria and Gerstner, Beth E and Kass, Jamie M and
+              Goodman, Steven M and Anderson, Robert P",
+  abstract = "Improved quantification of species' ranges is needed to provide
+              more accurate estimates of extinction risks for conservation
+              planning. Highland tropical biodiversity may be particularly
+              vulnerable to the anthropogenic changes in land cover and climate
+              and is subject to overestimation of geographic range size in IUCN
+              assessments. Here, we demonstrate a novel and practical approach
+              for quantifying inferred range reductions based upon temporal
+              matching of recent species occurrence localities and vegetation
+              data. As an illustration pertinent to montane forest-associated
+              species with limited distribution data, we use Gymnuromys
+              roberti, an endemic Malagasy rodent with a Least Concern
+              conservation status. We estimated climatic suitability and
+              climate change vulnerability using species distribution modeling
+              (SDM). We then determined deforestation tolerance thresholds for
+              the species by temporally matching recent occurrence localities
+              with percent forest cover values from MODIS forest cover layers.
+              Finally, we applied these thresholds in postprocessing SDM-based
+              range estimates. These estimates demonstrate that the lack of
+              sufficient forest cover substantially reduces the species'
+              current estimated range compared with the IUCN range map.
+              Projections to 2050 suggest that there will be a loss of climatic
+              suitability over three quarters of the currently suitable habitat
+              along with increased fragmentation, highlighting the need to
+              include climate change vulnerability assessments as an integral
+              part of conservation planning. Broader application of SDMs could
+              assist practitioners at various stages of conservation planning,
+              stressing the need for improved accessibility of methodologically
+              complex SDM approaches.",
+  journal  = "Global Ecology and Conservation",
+  volume   =  27,
+  pages    = "e01569",
+  month    =  jun,
+  year     =  2021,
+  keywords = "Climate change; Deforestation; Distribution; IUCN criteria;
+              Montane species"
+}
+
+@ARTICLE{Balasubramanian2021-do,
+  title    = "Integrating Capabilities and Ecosystem Services Approaches to
+              evaluate Indigenous connections with nature in a global
+              biodiversity hotspot of Western Ghats, India",
+  author   = "Balasubramanian, M and Sangha, Kamaljit K",
+  abstract = "To incorporate Indigenous and local communities connections with
+              nature for policy decision making, we integrate Ecosystem
+              Services (ES) and Capability Approaches to develop a cohesive
+              framework for assisting policy makers to better comprehend
+              nature's values that are vital for Indigenous/tribal well-being.
+              Sen's Capability Approach, when applied using the lens of ES,
+              helps to realise well-being from a multi-dimensional perspective.
+              Our proposed framework includes ES in the context of peoples'
+              capabilities, functionings, utilities, and freedom to access and
+              use natural resources. We further applied this framework to two
+              case studies, tribal communities of Soliga and Kattunayaka
+              located in a global biodiversity hotspot in the Western Ghats of
+              India, to investigate how ES enable people to lead their lives as
+              they want. This study, the first of its kind in India, explains
+              how tribal communities' well-being is affected by the access and
+              rights to their local forest resources. This study offers a tool
+              for policy makers to appropriately comprehend Indigenous/tribal
+              communities' connections with their lands, and highlights
+              concerns for mainstreaming them into contemporary economies. An
+              integrated understanding of multi-dimensional aspects of
+              well-being and nature's values can enhance both Indigenous
+              well-being and conservation outcomes at the local, regional and
+              global scales.",
+  journal  = "Global Ecology and Conservation",
+  volume   =  27,
+  pages    = "e01546",
+  month    =  jun,
+  year     =  2021,
+  keywords = "Ecosystem Services; Tribal communities; Indigenous communities;
+              Capabilities Approach; Well-being; Natural resources"
+}
+
+@ARTICLE{Dong2019-ye,
+  title     = "A global assessment of added value in the {SMAP} level 4 soil
+               moisture product relative to its baseline land surface model",
+  author    = "Dong, Jianzhi and Crow, Wade and Reichle, Rolf and Liu, Qing and
+               Lei, Fangni and Cosh, Michael H",
+  abstract  = "Abstract The Soil Moisture Active Passive (SMAP) level 4 product
+               provides enhanced soil moisture estimates by assimilating SMAP
+               brightness temperature observations into a land surface model.
+               Here, a quantitative estimate of the relative skill of SMAP
+               Level-4 and model-only surface soil moisture (vs. true soil
+               moisture) is derived using only one additional noisy (but
+               independent) soil moisture product. The method is applied
+               globally and verified using high-quality, ground-based
+               measurements where available. Results demonstrate that
+               assimilating SMAP brightness temperature has relatively little
+               impact in data-rich areas like the United States and Europe. In
+               contrast, much larger improvement is observed in data-sparse
+               regions, including much of Africa and central Australia, where
+               model-only simulations are disproportionately impacted by
+               low-quality model forcing. Therefore, ground validation
+               conducted in data-rich areas does not adequately sample the
+               added value of SMAP data assimilation for data-sparse regions
+               and substantially underestimates the added skill provided by the
+               SMAP level 4 system.",
+  journal   = "Geophysical research letters",
+  publisher = "American Geophysical Union (AGU)",
+  volume    =  46,
+  number    =  12,
+  pages     = "6604--6613",
+  month     =  jun,
+  year      =  2019,
+  copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
+  language  = "en"
+}
