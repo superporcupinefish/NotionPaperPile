@@ -1063,3 +1063,91 @@
   copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language  = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Brodrick2021-vg,
+  title    = "Generalized radiative transfer emulation for imaging spectroscopy
+              reflectance retrievals",
+  author   = "Brodrick, Philip G and Thompson, David R and Fahlen, Jay E and
+              Eastwood, Michael L and Sarture, Charles M and Lundeen, Sarah R
+              and Olson-Duvall, Winston and Carmon, Nimrod and Green, Robert O",
+  abstract = "Estimates of surface reflectance from observed radiance are
+              fundamentally tied to the accuracy of the radiative transfer
+              models used to simulate the interaction of light with the
+              atmosphere and surface. These radiative transfer models are
+              parameterized by a wide range of quantities, ranging from
+              observation and solar geometries to assumptions about atmospheric
+              conditions, including vertical distributions aerosols and water
+              vapor as well as the atmospheric composition. However, current
+              retrieval approaches cannot represent this variability; they are
+              limited by computational expense to a coarsely-spaced look up
+              table (LUT) of just a few parameters. Here, we propose a new
+              method called sRTMnet that facilitates the efficient creation of
+              dense LUT grids that fully capture radiative transfer's inherent
+              nonlinearity. sRTMnet uses a combination of fast, reduced-order
+              radiative transfer modeling coupled with neural-network-based
+              emulation to realize a computational speedup of over 3000$\times$
+              while maintaining the accuracy of a high-fidelity RTM. We
+              demonstrate the accuracy of sRTMnet in multiple ways. We show
+              that neural-network-based emulation delivers accurate atmospheric
+              properties using robust testing sets. We then use acquisitions
+              from the airborne visible/infrared imaging spectrometer - next
+              generation (AVIRIS-NG) to show near identical surface reflectance
+              estimates with sRTMnet and a high-fidelity radiative transfer
+              model (MODTRAN). Finally, we show how distributions of mapped
+              minerals remain consistent when using the sRTMnet-based
+              reflectance. Given these results, sRTMnet will be utilized for
+              the upcoming Earth Surface Mineral Dust Source Investigation
+              (EMIT, an imaging spectrometer destined for the international
+              space station in 2022). In addition to speed and accuracy, the
+              fully open-source nature of sRTMnet (including simulation and
+              emulation), provides a pathway for high-resolution imaging
+              spectroscopy reflectance retrievals at the global scale.",
+  journal  = "Remote sensing of environment",
+  volume   =  261,
+  pages    = "112476",
+  month    =  aug,
+  year     =  2021,
+  annote   = "<h2 class=``section-title u-h3 u-margin-l-top
+              u-margin-xs-bottom'' style=``color: rgb(80, 80, 80); font-family:
+              NexusSerif, Georgia, ''Times New Roman``, Times, STIXGeneral,
+              ''Cambria Math``, ''Lucida Sans Unicode``, ''Microsoft Sans
+              Serif``, ''Segoe UI Symbol``, ''Arial Unicode MS``, serif;
+              margin-bottom: 8px !important; font-weight: 400 !important;
+              font-size: 1.2rem !important; line-height: 1.333
+              !important;''>Highlights</h2><div id=``as0010'' style=``color:
+              rgb(46, 46, 46); font-family: NexusSerif, Georgia, ''Times New
+              Roman``, Times, STIXGeneral, ''Cambria Math``, ''Lucida Sans
+              Unicode``, ''Microsoft Sans Serif``, ''Segoe UI Symbol``, ''Arial
+              Unicode MS``, serif; font-size: 18px;''><p id=``sp0065''
+              style=``margin-bottom: 16px;''></p><dl class=``list''
+              style=``margin-bottom: 24px;''><dt class=``list-label''
+              style=``margin-right: 2px; float: left; clear: left;''>•</dt><dd
+              class=``list-description'' style=``margin-left: 24px;''><p
+              id=``p0005'' style=``margin-bottom: 16px;''>Global imaging
+              spectroscopy missions require many radiative transfer model (RTM)
+              runs.</p></dd><dt class=``list-label'' style=``margin-right: 2px;
+              float: left; clear: left;''>•</dt><dd class=``list-description''
+              style=``margin-left: 24px;''><p id=``p0010''
+              style=``margin-bottom: 16px;''>We build a fast RTM by combining
+              physical models and a neural network.</p></dd><dt
+              class=``list-label'' style=``margin-right: 2px; float: left;
+              clear: left;''>•</dt><dd class=``list-description''
+              style=``margin-left: 24px;''><p id=``p0015''
+              style=``margin-bottom: 16px;''>We integrate our RTM into an
+              open-source optimal estimation implementation.</p></dd><dt
+              class=``list-label'' style=``margin-right: 2px; float: left;
+              clear: left;''>•</dt><dd class=``list-description''
+              style=``margin-left: 24px;''><p id=``p0020''
+              style=``margin-bottom: 16px;''>Surface reflectance and mineralogy
+              from our RTM matches accuracies from physical RTMs.</p></dd><dt
+              class=``list-label'' style=``margin-right: 2px; float: left;
+              clear: left;''>•</dt><dd class=``list-description''
+              style=``margin-left: 24px;''><p id=``p0025''
+              style=``margin-bottom: 16px;''>Our approach accelerates RTMs by 3
+              orders of magnitude, facilitating orbital
+              missions.</p></dd></dl><p></p></div>",
+  keywords = "RTM; Earth surface mineral dust source investigation (EMIT);
+              AVIRIS; Hyperspectral"
+}
