@@ -1063,3 +1063,101 @@
   copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language  = "en"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Forster2021-iq,
+  title    = "Belowground consequences of converting broadleaf to conifer
+              forest: Comparing the fine root systems of European beech and
+              Scots pine",
+  author   = "F{\"o}rster, Agnes and Hertel, Dietrich and Werner, Rebekka and
+              Leuschner, Christoph",
+  abstract = "Planted forests of Scots pine (P. sylvestris L.) and other Pinus
+              species extend over >1.7 million hectares in the Pleistocene
+              lowlands of northern Germany, replacing former broadleaf forests
+              (primarily European beech, Fagus sylvatica L.). This
+              transformation belongs to the world's largest broadleaf-conifer
+              forest conversions; yet, the belowground consequences of this
+              species shift are poorly studied. Based on root coring, an
+              ingrowth core study and root morphological analyses, we compared
+              (i) the bio- and necromass, productivity and morphology of fine
+              roots in pairs of beech and pine stands and (ii) analyzed the
+              species' fine root system response to variation in soil
+              properties and climatic conditions across a climate
+              continentality gradient. Fine root biomass was on average 6.5
+              times higher (237 vs. 37 g m−2) and fine root productivity 1.9
+              times greater (147 vs. 77 g m−2 yr−1, difference not significant)
+              in beech than pine stands. Beech responded with considerable
+              plasticity in fine root system size and fine root morphology to
+              variation in soil acidity and soil fertility and to the
+              contrasting growing conditions in organic layer and mineral soil,
+              but was not responsive to the climatic gradient. In contrast,
+              pine modified fine root biomass and root morphology in response
+              to precipitation and temperature, but did not respond to soil
+              chemistry and fertility. Pine had a somewhat higher mean fine
+              root diameter and also higher specific fine root surface area
+              than beech, while its fine root tip abundance and mean fine root
+              lifespan were lower than in beech (4 vs. 13 months). We conclude
+              that the conversion of broadleaf (beech) to coniferous (pine)
+              forest is accompanied by marked root system changes, notably the
+              reduction of standing fine root biomass and productivity and an
+              apparently contrasting belowground responsiveness to climatic and
+              edaphic changes, with possible consequences for the trees'
+              susceptibility to climate-warming and drought.",
+  journal  = "Forest ecology and management",
+  volume   =  496,
+  pages    = "119457",
+  month    =  sep,
+  year     =  2021,
+  annote   = "<dt class=``list-label'' style=``margin-right: 2px; float: left;
+              clear: left; color: rgb(46, 46, 46); font-family: NexusSerif,
+              Georgia, ''Times New Roman``, Times, STIXGeneral, ''Cambria
+              Math``, ''Lucida Sans Unicode``, ''Microsoft Sans Serif``,
+              ''Segoe UI Symbol``, ''Arial Unicode MS``, serif; font-size:
+              18px; background-color: rgb(245, 245, 245);''>•</dt><dd
+              class=``list-description'' style=``margin-left: 24px; color:
+              rgb(46, 46, 46); font-family: NexusSerif, Georgia, ''Times New
+              Roman``, Times, STIXGeneral, ''Cambria Math``, ''Lucida Sans
+              Unicode``, ''Microsoft Sans Serif``, ''Segoe UI Symbol``, ''Arial
+              Unicode MS``, serif; font-size: 18px; background-color: rgb(245,
+              245, 245);''><p id=``p0005'' style=``margin-bottom: 16px;''>Fine
+              root biomass is 6.5 times higher in European beech than in Scots
+              pine forests.</p></dd><dt class=``list-label''
+              style=``margin-right: 2px; float: left; clear: left; color:
+              rgb(46, 46, 46); font-family: NexusSerif, Georgia, ''Times New
+              Roman``, Times, STIXGeneral, ''Cambria Math``, ''Lucida Sans
+              Unicode``, ''Microsoft Sans Serif``, ''Segoe UI Symbol``, ''Arial
+              Unicode MS``, serif; font-size: 18px; background-color: rgb(245,
+              245, 245);''>•</dt><dd class=``list-description''
+              style=``margin-left: 24px; color: rgb(46, 46, 46); font-family:
+              NexusSerif, Georgia, ''Times New Roman``, Times, STIXGeneral,
+              ''Cambria Math``, ''Lucida Sans Unicode``, ''Microsoft Sans
+              Serif``, ''Segoe UI Symbol``, ''Arial Unicode MS``, serif;
+              font-size: 18px; background-color: rgb(245, 245, 245);''><p
+              id=``p0010'' style=``margin-bottom: 16px;''>Marked plasticity of
+              beech fine roots to soil chemical variation, but not to
+              climate.</p></dd><dt class=``list-label'' style=``margin-right:
+              2px; float: left; clear: left; color: rgb(46, 46, 46);
+              font-family: NexusSerif, Georgia, ''Times New Roman``, Times,
+              STIXGeneral, ''Cambria Math``, ''Lucida Sans Unicode``,
+              ''Microsoft Sans Serif``, ''Segoe UI Symbol``, ''Arial Unicode
+              MS``, serif; font-size: 18px; background-color: rgb(245, 245,
+              245);''>•</dt><dd class=``list-description'' style=``margin-left:
+              24px; color: rgb(46, 46, 46); font-family: NexusSerif, Georgia,
+              ''Times New Roman``, Times, STIXGeneral, ''Cambria Math``,
+              ''Lucida Sans Unicode``, ''Microsoft Sans Serif``, ''Segoe UI
+              Symbol``, ''Arial Unicode MS``, serif; font-size: 18px;
+              background-color: rgb(245, 245, 245);''><p id=``p0015''
+              style=``margin-bottom: 16px;''>Marked plasticity of pine fine
+              roots to <a
+              href=``https://www.sciencedirect.com/topics/earth-and-planetary-sciences/climate-variation''
+              title=``Learn more about climate variation from ScienceDirect's
+              AI-generated Topic Pages'' class=``topic-link'' style=``margin:
+              0px; padding: 0px; background-color: transparent;
+              text-decoration-thickness: 1px; text-decoration-color: rgb(46,
+              46, 46); color: rgb(46, 46, 46); word-break: break-word;
+              text-underline-offset: 1px;''>climate variation</a>, but not to
+              soil chemistry.</p></dd>",
+  keywords = "Fine root biomass; Forest conversion; Fine root trait plasticity;
+              Fine root productivity"
+}
