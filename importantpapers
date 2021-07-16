@@ -1245,3 +1245,52 @@
   keywords = "Biosphere-atmosphere fluxes; Land surface model; Big-leaf model;
               Multilayer canopy model"
 }
+
+@ARTICLE{Garioud2021-hj,
+  title    = "Recurrent-based regression of Sentinel time series for continuous
+              vegetation monitoring",
+  author   = "Garioud, Anatol and Valero, Silvia and Giordano, S{\'e}bastien
+              and Mallet, Cl{\'e}ment",
+  abstract = "Dense time series of optical satellite imagery describing
+              vegetation activity provide essential information for the
+              efficient and regular monitoring of vegetation. Nevertheless, the
+              temporal resolution of optical sensors is strongly affected by
+              cloud cover, resulting in significant missing information. The
+              use of complementary acquisitions, such as Synthetic Aperture
+              Radar (SAR) data, opens the door to the development of new
+              multi-sensor methodologies aiming at the reconstruction of
+              missing information. However, the joint exploitation of new radar
+              and optical missions, such as the Sentinel, raises new challenges
+              given the different nature and response of the two data sources.
+              In this work, the SenRVM methodology is proposed as a new
+              multi-sensor approach to regress SAR time series towards
+              Normalized Difference Vegetation Index (NDVI). A deep Recurrent
+              Neural Network architecture which integrates SAR acquisitions and
+              ancillary data is adopted. The regression task permits a
+              continuous optical temporal resolution of 6 days. Multiple
+              experiments are carried out to assess the SenRVM framework by
+              studying two large-scale areas in France. Through an extensive
+              interpretation of the results, SenRVM is evaluated on three main
+              vegetation types (grasslands, crops, and forests). High accurate
+              results (R2 > 0.83 and MAE < 0.05) over more than 140,000
+              vegetation polygons are obtained, both for multi-class and
+              class-specific models. The importance of the SenRVM input
+              features is discussed through an ablation study, highlighting
+              that the relevance of the features differs for the various
+              classes. The good performances of SenRVM are assessed by
+              evaluating the quality of the reconstruction over short- and
+              long-term data gaps. Results are compared to five
+              state-of-the-art methodologies. Finally, some preliminary
+              experiments are first carried out to show how SenRVM results
+              could be used to improve the existing cloud \& shadow masks. The
+              recovering of time series breaks caused by vegetation cover
+              changes is also illustrated.",
+  journal  = "Remote sensing of environment",
+  volume   =  263,
+  pages    = "112419",
+  month    =  sep,
+  year     =  2021,
+  keywords = "Time series; Recurrent Neural Network (RNN); Regression; Missing
+              data; Sentinel-2; Sentinel-1; Data fusion; NDVI; Vegetation;
+              Monitoring"
+}
