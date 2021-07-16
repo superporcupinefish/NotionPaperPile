@@ -1151,3 +1151,97 @@
   keywords = "RTM; Earth surface mineral dust source investigation (EMIT);
               AVIRIS; Hyperspectral"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Bonan2021-gu,
+  title    = "Moving beyond the incorrect but useful paradigm: reevaluating
+              big-leaf and multilayer plant canopies to model
+              biosphere-atmosphere fluxes -- a review",
+  author   = "Bonan, Gordon B and Patton, Edward G and Finnigan, John J and
+              Baldocchi, Dennis D and Harman, Ian N",
+  abstract = "The land surface models that provide surface fluxes of energy and
+              mass to the atmosphere in weather forecast and climate models
+              typically represent plant canopies as a homogenous single layer
+              of phytomass without vertical structure (commonly referred to as
+              a big leaf). This modeling paradigm harkens back to a
+              30--40-year-old debate about whether big-leaf models adequately
+              simulate fluxes for vegetated surfaces compared to more complex
+              and computationally costly multilayer canopy models. This article
+              revisits that scientific debate. We review the early literature
+              to place our findings in context and discuss recent advancements
+              in roughness sublayer theory, observations of canopy structure
+              and leaf traits, and computational methods that facilitate the
+              use of multilayer models. Using a model with variable vertical
+              resolution, we compare a multilayer canopy representation with
+              the equivalent one-layer canopy to ask how well the one-layer
+              canopy replicates the multilayer benchmark and to identify why
+              differences occur. Comparisons with flux tower measurements at
+              several forest sites spanning multiple years show that sensible
+              heat flux, latent heat flux, gross primary production, and
+              friction velocity for the one-layer canopy degrade in comparison
+              to the benchmark multilayer canopy. For the forest sites
+              considered, 5--10 canopy layers sufficiently reproduce the
+              observed fluxes. Vertical variation of within-canopy air
+              temperature, specific humidity, and wind speed in the multilayer
+              canopy alters fluxes compared with the one-layer canopy. The
+              vertical profile of leaf water potential, in which the upper
+              canopy is water-stressed on dry soils, also causes differences
+              between the one-layer and multilayer canopies. The differences
+              between one-layer and multilayer canopies suggest that the land
+              surface modeling community should revisit the big-leaf surface
+              flux parameterizations used in models.",
+  journal  = "Agricultural and Forest Meteorology",
+  volume   =  306,
+  pages    = "108435",
+  month    =  aug,
+  year     =  2021,
+  annote   = "<h2 class=``section-title u-h3 u-margin-l-top
+              u-margin-xs-bottom'' style=``color: rgb(80, 80, 80); font-family:
+              NexusSerif, Georgia, ''Times New Roman``, Times, STIXGeneral,
+              ''Cambria Math``, ''Lucida Sans Unicode``, ''Microsoft Sans
+              Serif``, ''Segoe UI Symbol``, ''Arial Unicode MS``, serif;
+              margin-bottom: 8px !important; font-weight: 400 !important;
+              font-size: 1.2rem !important; line-height: 1.333
+              !important;''>Highlights</h2><div id=``abss0001'' style=``color:
+              rgb(46, 46, 46); font-family: NexusSerif, Georgia, ''Times New
+              Roman``, Times, STIXGeneral, ''Cambria Math``, ''Lucida Sans
+              Unicode``, ''Microsoft Sans Serif``, ''Segoe UI Symbol``, ''Arial
+              Unicode MS``, serif; font-size: 18px;''><p id=``spara012''
+              style=``margin-bottom: 16px;''></p><dl class=``list''
+              style=``margin-bottom: 24px;''><dt class=``list-label''
+              style=``margin-right: 2px; float: left; clear: left;''>•</dt><dd
+              class=``list-description'' style=``margin-left: 24px;''><p
+              id=``para0001'' style=``margin-bottom: 16px;''>Single-layer
+              canopy parameterizations in land surface models may be
+              insufficient.</p></dd><dt class=``list-label''
+              style=``margin-right: 2px; float: left; clear: left;''>•</dt><dd
+              class=``list-description'' style=``margin-left: 24px;''><p
+              id=``para0002'' style=``margin-bottom: 16px;''>Simulations with a
+              one-layer canopy are degraded compared to a multilayer
+              model.</p></dd><dt class=``list-label'' style=``margin-right:
+              2px; float: left; clear: left;''>•</dt><dd
+              class=``list-description'' style=``margin-left: 24px;''><p
+              id=``para0003'' style=``margin-bottom: 16px;''>Results differ
+              because of within-canopy temperature and wind speed
+              profiles.</p></dd><dt class=``list-label'' style=``margin-right:
+              2px; float: left; clear: left;''>•</dt><dd
+              class=``list-description'' style=``margin-left: 24px;''><p
+              id=``para0004'' style=``margin-bottom: 16px;''>Single-layer
+              canopies cannot capture gradients of <a
+              href=``https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/leaf-water-potential''
+              title=``Learn more about leaf water potential from
+              ScienceDirect's AI-generated Topic Pages'' class=``topic-link''
+              style=``margin: 0px; padding: 0px; background-color: transparent;
+              text-decoration-thickness: 1px; text-decoration-color: rgb(46,
+              46, 46); color: rgb(46, 46, 46); word-break: break-word;
+              text-underline-offset: 1px;''>leaf water
+              potential</a>.</p></dd><dt class=``list-label''
+              style=``margin-right: 2px; float: left; clear: left;''>•</dt><dd
+              class=``list-description'' style=``margin-left: 24px;''><p
+              id=``para0005'' style=``margin-bottom: 16px;''>Additional
+              resolution over 5--10 layers gives little change in model
+              performance.</p></dd></dl><p></p></div>",
+  keywords = "Biosphere-atmosphere fluxes; Land surface model; Big-leaf model;
+              Multilayer canopy model"
+}
