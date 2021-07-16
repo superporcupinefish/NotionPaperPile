@@ -1246,6 +1246,8 @@
               Multilayer canopy model"
 }
 
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
 @ARTICLE{Garioud2021-hj,
   title    = "Recurrent-based regression of Sentinel time series for continuous
               vegetation monitoring",
@@ -1290,6 +1292,45 @@
   pages    = "112419",
   month    =  sep,
   year     =  2021,
+  annote   = "<h2 class=``section-title u-h3 u-margin-l-top
+              u-margin-xs-bottom'' style=``color: rgb(80, 80, 80); font-family:
+              NexusSerif, Georgia, ''Times New Roman``, Times, STIXGeneral,
+              ''Cambria Math``, ''Lucida Sans Unicode``, ''Microsoft Sans
+              Serif``, ''Segoe UI Symbol``, ''Arial Unicode MS``, serif;
+              margin-bottom: 8px !important; font-weight: 400 !important;
+              font-size: 1.2rem !important; line-height: 1.333
+              !important;''>Highlights</h2><div id=``as0010'' style=``color:
+              rgb(46, 46, 46); font-family: NexusSerif, Georgia, ''Times New
+              Roman``, Times, STIXGeneral, ''Cambria Math``, ''Lucida Sans
+              Unicode``, ''Microsoft Sans Serif``, ''Segoe UI Symbol``, ''Arial
+              Unicode MS``, serif; font-size: 18px;''><p id=``sp0095''
+              style=``margin-bottom: 16px;''></p><dl class=``list''
+              style=``margin-bottom: 24px;''><dt class=``list-label''
+              style=``margin-right: 2px; float: left; clear: left;''>•</dt><dd
+              class=``list-description'' style=``margin-left: 24px;''><p
+              id=``p0005'' style=``margin-bottom: 16px;''>A deep-learning
+              SAR-to-optical regression methodology is proposed.</p></dd><dt
+              class=``list-label'' style=``margin-right: 2px; float: left;
+              clear: left;''>•</dt><dd class=``list-description''
+              style=``margin-left: 24px;''><p id=``p0010''
+              style=``margin-bottom: 16px;''>Ancillary and satellite time
+              series are fused in a recurrent-based architecture.</p></dd><dt
+              class=``list-label'' style=``margin-right: 2px; float: left;
+              clear: left;''>•</dt><dd class=``list-description''
+              style=``margin-left: 24px;''><p id=``p0015''
+              style=``margin-bottom: 16px;''>6-days temporal revisit of NDVI
+              measurements is obtained for vegetation monitoring.</p></dd><dt
+              class=``list-label'' style=``margin-right: 2px; float: left;
+              clear: left;''>•</dt><dd class=``list-description''
+              style=``margin-left: 24px;''><p id=``p0020''
+              style=``margin-bottom: 16px;''>High accuracy is achieved over
+              three vegetation classes with distinct phenologies.</p></dd><dt
+              class=``list-label'' style=``margin-right: 2px; float: left;
+              clear: left;''>•</dt><dd class=``list-description''
+              style=``margin-left: 24px;''><p id=``p0025''
+              style=``margin-bottom: 16px;''>Relevance of the approach is
+              assessed with thematic and methodological
+              considerations.</p></dd></dl><p></p></div>",
   keywords = "Time series; Recurrent Neural Network (RNN); Regression; Missing
               data; Sentinel-2; Sentinel-1; Data fusion; NDVI; Vegetation;
               Monitoring"
