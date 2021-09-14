@@ -1390,3 +1390,43 @@
               Gaussian process regression; Dimensionality reduction; Active
               learning; Imaging spectroscopy"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Philpot2021-vn,
+  title     = "{ND-space}: Normalized difference spectral mapping",
+  author    = "Philpot, William and Jacquemoud, St{\'e}phane and Tian, Jia",
+  abstract  = "Highlights • Variations in reflectance magnitude obscure
+               spectral reflectance differences. • Normalization emphasizes
+               spectral differences by minimizing magnitude differences. •
+               Two-dimensional normalized difference maps facilitate modeling
+               and classification. • Achieves refined soil type identification
+               and soil-dependent emergent vegetation. Abstract Identification
+               of materials based on spectral reflectance is confounded by
+               variations in reflectance magnitude that are independent of the
+               spectral shape. Local variations such as viewing/illumination
+               angles, multiscale soil surface roughness that causes shadows
+               and redistributes light, and soil moisture content, all drive
+               changes in magnitude that are distinct from the spectral
+               variations, and complicate identification and modeling of
+               targets based on spectral features. Normalization metrics that
+               remove magnitude variations can greatly clarify the nature of
+               spectral differences, simplifying interpretation of reflectance
+               features in spectral imagery. Normalized difference measures are
+               particularly useful because of the simplicity of the
+               computation, the convenient scaling, and the ease with which the
+               normalized difference procedure can be extended to multiple
+               dimensions. The two-dimensional normalized difference space
+               described here allows for improved discrimination among bare
+               soils and emergent vegetation when there are multiple soil types
+               in the scene. A 2-D model of soil-specific change in vegetation
+               density is presented. An application of the vector index to
+               mineral identification and mapping is also presented, with an
+               emphasis on band selection.",
+  journal   = "Remote sensing of environment",
+  publisher = "Elsevier Inc.",
+  volume    =  264,
+  number    =  112622,
+  month     =  oct,
+  year      =  2021
+}
