@@ -1430,3 +1430,58 @@
   month     =  oct,
   year      =  2021
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{noauthor_2021-rt,
+  title     = "Explaining discrepancies between spectral and in-situ plant
+               diversity in multispectral satellite earth observation",
+  abstract  = "In light of the ongoing global biodiversity crisis, the urge to
+               monitor and map terrestrial plant biodiversity at large spatial
+               extents has spurred re…",
+  journal   = "Remote sensing of environment",
+  publisher = "Elsevier",
+  volume    =  265,
+  pages     = "112684",
+  month     =  nov,
+  year      =  2021,
+  annote    = "<h2 class=``section-title u-h3 u-margin-l-top
+               u-margin-xs-bottom'' style=``color: rgb(80, 80, 80);
+               font-family: NexusSerif, Georgia, ''Times New Roman``, Times,
+               STIXGeneral, ''Cambria Math``, ''Lucida Sans Unicode``,
+               ''Microsoft Sans Serif``, ''Segoe UI Symbol``, ''Arial Unicode
+               MS``, serif; margin-bottom: 8px !important; font-weight: 400
+               !important; font-size: 1.2rem !important; line-height: 1.333
+               !important;''>Highlights</h2><div id=``as0010'' style=``color:
+               rgb(46, 46, 46); font-family: NexusSerif, Georgia, ''Times New
+               Roman``, Times, STIXGeneral, ''Cambria Math``, ''Lucida Sans
+               Unicode``, ''Microsoft Sans Serif``, ''Segoe UI Symbol``,
+               ''Arial Unicode MS``, serif; font-size: 18px;''><p id=``sp0050''
+               style=``margin-bottom: 16px;''></p><dl class=``list''
+               style=``margin-bottom: 24px;''><dt class=``list-label''
+               style=``margin-right: 2px; float: left; clear: left;''>•</dt><dd
+               class=``list-description'' style=``margin-left: 24px;''><p
+               id=``p0005'' style=``margin-bottom: 16px;''>Characterization of
+               constituents of spectral diversity needs closer
+               examination.</p></dd><dt class=``list-label''
+               style=``margin-right: 2px; float: left; clear: left;''>•</dt><dd
+               class=``list-description'' style=``margin-left: 24px;''><p
+               id=``p0010'' style=``margin-bottom: 16px;''>Vegetation cover
+               dominates the overall spectral diversity signal.</p></dd><dt
+               class=``list-label'' style=``margin-right: 2px; float: left;
+               clear: left;''>•</dt><dd class=``list-description''
+               style=``margin-left: 24px;''><p id=``p0015''
+               style=``margin-bottom: 16px;''>Sentinel-2's spectral diversity,
+               convex hull volume, is correlated to taxonomic
+               diversity.</p></dd><dt class=``list-label''
+               style=``margin-right: 2px; float: left; clear: left;''>•</dt><dd
+               class=``list-description'' style=``margin-left: 24px;''><p
+               id=``p0020'' style=``margin-bottom: 16px;''>Leaf trait diversity
+               did not predict Sentinel-2's spectral diversity directly or
+               indirectly.</p></dd><dt class=``list-label''
+               style=``margin-right: 2px; float: left; clear: left;''>•</dt><dd
+               class=``list-description'' style=``margin-left: 24px;''><p
+               id=``p0025'' style=``margin-bottom: 16px;''>Considering
+               vegetation cover and soil properties is crucial to understanding
+               spectral diversity.</p></dd></dl><p></p></div>"
+}
