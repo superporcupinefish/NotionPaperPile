@@ -1433,12 +1433,58 @@
 
 % The entry below contains non-ASCII chars that could not be converted
 % to a LaTeX equivalent.
-@ARTICLE{noauthor_2021-rt,
+@ARTICLE{Hauser2021-rt,
   title     = "Explaining discrepancies between spectral and in-situ plant
                diversity in multispectral satellite earth observation",
+  author    = "Hauser, Leon T and Timmermans, Joris and van der Windt, Niels
+               and Sil, {\^A}ngelo F and C{\'e}sar de S{\'a}, Nuno and
+               Soudzilovskaia, Nadejda A and van Bodegom, Peter M",
   abstract  = "In light of the ongoing global biodiversity crisis, the urge to
                monitor and map terrestrial plant biodiversity at large spatial
-               extents has spurred re…",
+               extents has spurred research on adequate quantitative methods.
+               The use of spectral diversity metrics from different remote
+               sensing platforms has emerged as a promising tool for such
+               biodiversity assessments. Satellite remote sensing presents the
+               next frontier for implementation of these methods to assess
+               plant diversity with spatial and temporal continuity at truly
+               regional or global scales. However, the question of what exactly
+               is monitored by spectral diversity metrics from relatively
+               coarse multi-spectral satellite observations has remained
+               largely unanswered. In this research, we examined which
+               components contribute to satellite remotely sensed spectral
+               diversity. We assessed the relationships between spectral
+               diversity and in-situ taxonomic and trait diversity, and
+               evaluated the role of confounding factors, vegetation cover, and
+               landscape morphology (slope and elevation), in shaping these
+               relationships. Hereto, we used Sentinel-2 imagery and in-situ
+               field trait and species count data collected in the
+               Montesinho-Nogueira Natura 2000 site (Portugal) together with
+               radiative transfer models to quantify the theoretical link
+               between in-situ trait diversity and simulated spectral
+               diversity. Through the use of linear mixed-effect models, our
+               results highlight that variation in vegetation cover dominates
+               the Sentinel-2's spectral diversity signal (contributing
+               53--84\% of the R2marginal). The vegetation cover component
+               encompasses spatial variability in canopy architecture traits as
+               well as the fraction of bare soil and plant litter spectra.
+               These elements together strongly impact the overall spectral
+               diversity signal, as shown both in our radiative transfer
+               simulations and empirical comparisons. Next to vegetation cover,
+               we found that taxonomic diversity is a significant predictor and
+               covariate of spectral diversity, while the role of leaf trait
+               diversity appeared insignificant in our multispectral dataset.
+               Variation in vegetation cover dominated the spectral diversity
+               signal in our study while it is not necessarily correlated with
+               plant diversity. We, therefore, recommend that future
+               applications of multi-spectral diversity metrics consider the
+               impact of vegetation cover, including soil variability and the
+               role of morphological traits, in shaping leaf trait - canopy
+               reflectance relationships to better understand the ambiguous
+               performance of spectral diversity as a proxy of plant diversity.
+               This will result in higher robustness, consistency, and
+               scalability of spectral diversity metrics for predicting in-situ
+               plant diversity across scales, sensors, and ecosystems in
+               regional biodiversity assessments.",
   journal   = "Remote sensing of environment",
   publisher = "Elsevier",
   volume    =  265,
@@ -1483,5 +1529,8 @@
                class=``list-description'' style=``margin-left: 24px;''><p
                id=``p0025'' style=``margin-bottom: 16px;''>Considering
                vegetation cover and soil properties is crucial to understanding
-               spectral diversity.</p></dd></dl><p></p></div>"
+               spectral diversity.</p></dd></dl><p></p></div>",
+  keywords  = "Biodiversity; Spectral diversity; Ecology; Sentinel-2;
+               Functional diversity; Leaf traits; Vegetation; Species richness;
+               Vegetation cover; Mediterranean; PROSPECT; PROSAIL; Portugal"
 }
