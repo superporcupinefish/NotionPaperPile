@@ -1596,3 +1596,21 @@
   keywords = "Spatiotemporal fusion; Reliability index; Temporal change; Local
               unmixing; Satellite images;Important;Interesting;just added"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{noauthor_2022-ri,
+  title     = "Land cover classification in an era of big and open data:
+               Optimizing localized implementation and training data selection
+               to improve mapping outcomes",
+  abstract  = "Deriving land cover from remotely sensed data is fundamental to
+               many operational mapping and reporting programs as well as
+               providing core information …",
+  journal   = "Remote sensing of environment",
+  publisher = "Elsevier",
+  volume    =  268,
+  pages     = "112780",
+  month     =  jan,
+  year      =  2022,
+  keywords  = "Important;just added"
+}
