@@ -15,6 +15,7 @@
   pages    = "e1003453",
   month    =  jan,
   year     =  2014,
+  keywords = "Important;Misc",
   language = "en"
 }
 
@@ -66,7 +67,8 @@
   number   = "2-3",
   pages    = "337--354",
   month    =  aug,
-  year     =  2002
+  year     =  2002,
+  keywords = "Important;Plant"
 }
 
 @ARTICLE{Ainsworth2007-rn,
@@ -91,20 +93,23 @@
   number   =  4,
   pages    = "875--877",
   year     =  2007,
+  keywords = "Phenols;biophysical parameters;Important;just added;Leaf/Plant
+              Traits",
   language = "en"
 }
 
 @ARTICLE{Yang2021-rz,
-  title   = "Muti-modal learning in photogrammetry and remote sensing",
-  author  = "Yang, Michael Ying and Landrieu, Loic and Tuia, Devis and Toth,
-             Charles",
-  journal = "ISPRS journal of photogrammetry and remote sensing: official
-             publication of the International Society for Photogrammetry and
-             Remote Sensing",
-  volume  =  176,
-  pages   = "54",
-  month   =  jun,
-  year    =  2021
+  title    = "Muti-modal learning in photogrammetry and remote sensing",
+  author   = "Yang, Michael Ying and Landrieu, Loic and Tuia, Devis and Toth,
+              Charles",
+  journal  = "ISPRS journal of photogrammetry and remote sensing: official
+              publication of the International Society for Photogrammetry and
+              Remote Sensing",
+  volume   =  176,
+  pages    = "54",
+  month    =  jun,
+  year     =  2021,
+  keywords = "Important;just added;Unread"
 }
 
 @ARTICLE{Lubbe2021-be,
@@ -145,7 +150,8 @@
   month    =  may,
   year     =  2021,
   keywords = "Anatomy; belowground; herbaceous plant; lignin; non-structural
-              carbohydrates; persistence; plant economic spectrum; storage",
+              carbohydrates; persistence; plant economic spectrum;
+              storage;Important;just added;Unread",
   language = "en"
 }
 
@@ -166,7 +172,7 @@
   month    =  jun,
   year     =  2021,
   keywords = "data reporting; environmental modeling; open-access data;
-              replication; reproducibility",
+              replication; reproducibility;Important;just added;Unread",
   language = "en"
 }
 
@@ -214,7 +220,7 @@
   month    =  may,
   year     =  2018,
   keywords = "functional traits; leaf longevity; leaf mass per area; plant
-              functional types; tropical forests",
+              functional types; tropical forests;Important;just added;Unread",
   language = "en"
 }
 
@@ -228,6 +234,7 @@
   pages    = "527--529",
   month    =  jun,
   year     =  2021,
+  keywords = "Important;just added;Unread",
   language = "en"
 }
 
@@ -272,7 +279,8 @@
   month    =  jul,
   year     =  2021,
   keywords = "Leaf area index; Canopy structure; Photosynthetically active
-              radiation; Phenology; Remote sensing; Carbon cycle"
+              radiation; Phenology; Remote sensing; Carbon cycle;Important;just
+              added;Unread"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -324,7 +332,7 @@
   year     =  2021,
   keywords = "Spring phenology; Climate change; Deciduous forests; Photoperiod;
               Temperature sensitivity; Bayesian; Hierarchical modeling; MODIS;
-              Land surface phenology"
+              Land surface phenology;Important;just added;Unread"
 }
 
 @ARTICLE{Bruelheide2018-rx,
@@ -399,6 +407,7 @@
   pages    = "1906--1917",
   month    =  dec,
   year     =  2018,
+  keywords = "Important;just added;Unread",
   language = "en"
 }
 
@@ -430,7 +439,7 @@
   year     =  2017,
   keywords = " SLA ; Deciduous; evergreen; functional traits; leaf anatomy;
               leaf density; leaf economics; leaf thickness; mesophyll; specific
-              leaf area",
+              leaf area;Important;just added;Unread",
   language = "en"
 }
 
@@ -447,6 +456,7 @@
   pages     = "2603--2633",
   month     =  may,
   year      =  2021,
+  keywords  = "Important;PROSAIL;just added;Unread",
   language  = "en"
 }
 
@@ -490,7 +500,8 @@
   month    =  jan,
   year     =  2020,
   keywords = "Sentinel-2; PROSAIL; Plant traits; Specific leaf area; Leaf mass
-              per area; Functional diversity"
+              per area; Functional diversity;PROSAIL;Important;just
+              added;Unread"
 }
 
 @ARTICLE{Wang2019-eq,
@@ -537,7 +548,8 @@
   year     =  2019,
   keywords = "Biodiversity; Remote sensing; Optical diversity; Spectral
               diversity; Spectral heterogeneity; Imaging spectroscopy; Scale;
-              Global biodiversity monitoring system"
+              Global biodiversity monitoring system;Important;Review Paper;just
+              added;Unread"
 }
 
 @ARTICLE{Schiefer2021-st,
@@ -591,7 +603,8 @@
   month    =  feb,
   year     =  2021,
   keywords = "Vegetation remote sensing; Leaf traits; PROSAIL; Partial least
-              squares regression; Flowering; Radiative transfer model"
+              squares regression; Flowering; Radiative transfer
+              model;Important;just added;Unread"
 }
 
 @ARTICLE{Croft2020-hy,
@@ -644,7 +657,8 @@
   year     =  2020,
   keywords = "Radiative transfer; 4-Scale; SAIL; PROSPECT; Leaf biochemistry;
               MERIS; Satellite; Remote sensing; Leaf physiology; Carbon cycle;
-              Ecosystem modelling; Phenology"
+              Ecosystem modelling; Phenology;Review Paper;Important;just
+              added;Unread"
 }
 
 @ARTICLE{Moreno-Martinez2018-dq,
@@ -700,7 +714,8 @@
   month    =  dec,
   year     =  2018,
   keywords = "Plant traits; Machine learning; Random forests; Remote sensing;
-              Plant ecology; Climate; MODIS; Landsat"
+              Plant ecology; Climate; MODIS; Landsat;Important;just
+              added;Unread"
 }
 
 @ARTICLE{Wang2018-rk,
@@ -751,7 +766,8 @@
   month    =  may,
   year     =  2018,
   keywords = "Leaf and canopy nitrogen; Forest; Radiative transfer model; Model
-              inversion; PROSPECT; INFORM; Hyperspectral remote sensing"
+              inversion; PROSPECT; INFORM; Hyperspectral remote
+              sensing;Important;PROSAIL;just added;Unread"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -804,6 +820,7 @@
   number    = "oik.08284",
   month     =  may,
   year      =  2021,
+  keywords  = "Important;just added;Unread",
   copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language  = "en"
 }
@@ -856,7 +873,8 @@
   month    =  jun,
   year     =  2021,
   keywords = "Evapotranspiration model; Reference evapotranspiration; Soil
-              moisture; Factor contribution; Larch plantation"
+              moisture; Factor contribution; Larch plantation;just
+              added;Important;Unread"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -900,7 +918,8 @@
   pages    = "e01539",
   month    =  jun,
   year     =  2021,
-  keywords = "Biomass allocation; Carbon content; Dry subtropical forest"
+  keywords = "Biomass allocation; Carbon content; Dry subtropical
+              forest;Important;just added;Unread"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -946,7 +965,8 @@
   pages    = "e01542",
   month    =  jun,
   year     =  2021,
-  keywords = "Leaf litter; C: N: P ratios; Environmental variables; Chinese fir"
+  keywords = "Leaf litter; C: N: P ratios; Environmental variables; Chinese
+              fir;Important;just added;Unread"
 }
 
 @ARTICLE{Gavrutenko2021-yi,
@@ -989,7 +1009,7 @@
   month    =  jun,
   year     =  2021,
   keywords = "Climate change; Deforestation; Distribution; IUCN criteria;
-              Montane species"
+              Montane species;Important;just added;Unread"
 }
 
 @ARTICLE{Balasubramanian2021-do,
@@ -1026,7 +1046,8 @@
   month    =  jun,
   year     =  2021,
   keywords = "Ecosystem Services; Tribal communities; Indigenous communities;
-              Capabilities Approach; Well-being; Natural resources"
+              Capabilities Approach; Well-being; Natural resources;People
+              perspective;Important;Policy;Unread"
 }
 
 @ARTICLE{Dong2019-ye,
@@ -1060,6 +1081,8 @@
   pages     = "6604--6613",
   month     =  jun,
   year      =  2019,
+  keywords  = "Important;just added;DA - Data Assimilation Systems;PhD
+               Specific;MULTIPLY;Unread",
   copyright = "http://onlinelibrary.wiley.com/termsAndConditions\#vor",
   language  = "en"
 }
@@ -1149,7 +1172,7 @@
               orders of magnitude, facilitating orbital
               missions.</p></dd></dl><p></p></div>",
   keywords = "RTM; Earth surface mineral dust source investigation (EMIT);
-              AVIRIS; Hyperspectral"
+              AVIRIS; Hyperspectral;Important"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1243,7 +1266,7 @@
               resolution over 5--10 layers gives little change in model
               performance.</p></dd></dl><p></p></div>",
   keywords = "Biosphere-atmosphere fluxes; Land surface model; Big-leaf model;
-              Multilayer canopy model"
+              Multilayer canopy model;Important;Interesting;just added"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1333,7 +1356,7 @@
               considerations.</p></dd></dl><p></p></div>",
   keywords = "Time series; Recurrent Neural Network (RNN); Regression; Missing
               data; Sentinel-2; Sentinel-1; Data fusion; NDVI; Vegetation;
-              Monitoring"
+              Monitoring;Important;Interesting;just added"
 }
 
 @ARTICLE{Verrelst2021-fk,
@@ -1388,7 +1411,7 @@
   year     =  2021,
   keywords = "Canopy nitrogen content; PRISMA; CHIME; Hybrid retrieval;
               Gaussian process regression; Dimensionality reduction; Active
-              learning; Imaging spectroscopy"
+              learning; Imaging spectroscopy;Important;just added;Unread"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1428,7 +1451,8 @@
   volume    =  264,
   number    =  112622,
   month     =  oct,
-  year      =  2021
+  year      =  2021,
+  keywords  = "Important;just added"
 }
 
 % The entry below contains non-ASCII chars that could not be converted
@@ -1532,5 +1556,43 @@
                spectral diversity.</p></dd></dl><p></p></div>",
   keywords  = "Biodiversity; Spectral diversity; Ecology; Sentinel-2;
                Functional diversity; Leaf traits; Vegetation; Species richness;
-               Vegetation cover; Mediterranean; PROSPECT; PROSAIL; Portugal"
+               Vegetation cover; Mediterranean; PROSPECT; PROSAIL;
+               Portugal;Important;just added"
+}
+
+@ARTICLE{Shi2022-wb,
+  title    = "A reliable and adaptive spatiotemporal data fusion method for
+              blending multi-spatiotemporal-resolution satellite images",
+  author   = "Shi, Wenzhong and Guo, Dizhou and Zhang, Hua",
+  abstract = "Spatiotemporal image fusion is a potential way to resolve the
+              constraint between the spatial and temporal resolutions of
+              satellite images and has been developed rapidly in recent years.
+              However, two key challenges related to fusion accuracy remain: a)
+              reducing the uncertainty of image fusion caused by sensor
+              differences and b) addressing strong temporal changes. To solve
+              the above two issues, this paper presents the newly proposed
+              Reliable and Adaptive Spatiotemporal Data Fusion (RASDF) method.
+              In RASDF, the effects of four kinds of sensor differences on
+              fusion are analyzed systematically. A reliability index is
+              therefore proposed to describe the spatial distribution of the
+              reliability in input data for image fusion. An optimization
+              strategy based on the spatial distribution of the reliability
+              quantified by the index is developed to improve the robustness of
+              the fusion. In addition, an adaptive global unmixing model and an
+              adaptive local unmixing model are constructed and utilized
+              collaboratively to enhance the ability to retrieve strong
+              temporal changes. The performance and robustness of RASDF were
+              compared with six representative fusion methods for both real and
+              simulated datasets covering both homogeneous and heterogeneous
+              sites. Experimental results indicated that RASDF achieves a
+              better performance and provides a more reliable image fusion
+              solution in terms of reducing the impact of sensor differences on
+              image fusion and retrieving strong temporal changes.",
+  journal  = "Remote sensing of environment",
+  volume   =  268,
+  pages    = "112770",
+  month    =  jan,
+  year     =  2022,
+  keywords = "Spatiotemporal fusion; Reliability index; Temporal change; Local
+              unmixing; Satellite images;Important;Interesting;just added"
 }
