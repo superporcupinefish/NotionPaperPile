@@ -1631,3 +1631,17 @@
   year      =  2022,
   keywords  = "Important;Interesting;just added"
 }
+
+@ARTICLE{noauthor_2022-tc,
+  title     = "Corrigendum to ``Unpacking the drivers of diurnal dynamics of
+               sun-induced chlorophyll fluorescence ({SIF)}: Canopy structure,
+               plant physiology, instrument configuration and retrieval
+               methods'' [Remote Sensing of Environment 265 (2021) 112672]",
+  journal   = "Remote sensing of environment",
+  publisher = "Elsevier",
+  volume    =  268,
+  pages     = "112765",
+  month     =  jan,
+  year      =  2022,
+  keywords  = "Important;Interesting;just added"
+}
