@@ -1680,3 +1680,20 @@
   year      =  2022,
   keywords  = "Interesting;Important;just added"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{noauthor_2022-eh,
+  title     = "Spatiotemporal sampling with spatial spreading and rotation of
+               units in time",
+  abstract  = "When the sampled population belongs to a metric space, the
+               selection of neighboring units will imply often similarities in
+               the collected data due to t…",
+  journal   = "Spatial Statistics",
+  publisher = "Elsevier",
+  volume    =  47,
+  pages     = "100613",
+  month     =  mar,
+  year      =  2022,
+  keywords  = "Important;Interesting;just added"
+}
