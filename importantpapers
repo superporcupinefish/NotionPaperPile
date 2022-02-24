@@ -1662,3 +1662,21 @@
   year      =  2022,
   keywords  = "Important;Interesting;just added"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{noauthor_2022-kp,
+  title     = "Geodiversity assessment with global and local spatial
+               multicriteria analysis",
+  abstract  = "The paper reports on geodiversity assessments of three national
+               parks in Poland, performed independently by experts and
+               volunteers. Each national park…",
+  journal   = "International Journal of Applied Earth Observation and
+               Geoinformation",
+  publisher = "Elsevier",
+  volume    =  107,
+  pages     = "102665",
+  month     =  mar,
+  year      =  2022,
+  keywords  = "Interesting;Important;just added"
+}
