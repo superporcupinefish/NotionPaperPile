@@ -1614,3 +1614,20 @@
   year      =  2022,
   keywords  = "Important;just added"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{noauthor_2022-ij,
+  title     = "Seasonal and long-term variations in leaf area of Congolese
+               rainforest",
+  abstract  = "It is important to understand temporal and spatial variations in
+               the structure and photosynthetic capacity of tropical
+               rainforests in a world of chang…",
+  journal   = "Remote sensing of environment",
+  publisher = "Elsevier",
+  volume    =  268,
+  pages     = "112762",
+  month     =  jan,
+  year      =  2022,
+  keywords  = "Important;Interesting;just added"
+}
