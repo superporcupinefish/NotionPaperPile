@@ -1645,3 +1645,20 @@
   year      =  2022,
   keywords  = "Important;Interesting;just added"
 }
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{noauthor_2022-xv,
+  title     = "Modeling temporal variations of non-structural carbohydrate
+               ({NSC}) storages across biomes",
+  abstract  = "Recent findings on non-structural carbohydrates (NSCs) highlight
+               their importance for plant growth and survival. Process-based
+               biogeochemical models (…",
+  journal   = "Forest ecology and management",
+  publisher = "Elsevier",
+  volume    =  508,
+  pages     = "120033",
+  month     =  mar,
+  year      =  2022,
+  keywords  = "Important;Interesting;just added"
+}
